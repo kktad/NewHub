@@ -1,0 +1,33 @@
+﻿---
+ID: "9cb16c20-c2f0-47a4-9472-90f7d24273e7"
+Parent: "171573a8-1f61-43da-a72b-277d39c889b6"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/templates/Branches/Feature/Components Library/Context-CL/Available Headless Context-CL Renderings/$name"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {C03422DB-8E11-425D-8AC1-8F062CFB08A3}
+    {2EF7BF73-2DAA-4088-97C3-63A882968130}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49ba5a4a-6c75-4611-a357-b35bf2d9a76a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240513T083553Z

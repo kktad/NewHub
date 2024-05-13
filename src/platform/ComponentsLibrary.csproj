@@ -76,12 +76,21 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="ContentResolvers\LanguageSelectorRenderingContentsResolver.cs" />
+    <Compile Include="ContentResolvers\SiteSelectorRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\BreadcrumbRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\FooterRenderingContentsResolver.cs" />
     <Compile Include="Interface\IBreadcrumbRepository.cs" />
+    <Compile Include="Interface\ILanguageSelectorRepository.cs" />
+    <Compile Include="Interface\ISiteSelectorRepository.cs" />
     <Compile Include="Model\BreadcrumbRenderingModel.cs" />
+    <Compile Include="Model\LanguageSelectorItem.cs" />
+    <Compile Include="Model\LanguageSelectorRenderingModel.cs" />
+    <Compile Include="Model\SiteSelectorRenderingModel.cs" />
     <Compile Include="Repositories\BreadcrumbRepository.cs" />
     <Compile Include="Repositories\FakeBreadcrumbRepository.cs" />
+    <Compile Include="Repositories\LanguageSelectorRepository.cs" />
+    <Compile Include="Repositories\SiteSelectorRepository.cs" />
     <Compile Include="SitecoreFieldHelpers\LinkExtensions.cs" />
   </ItemGroup>
   <PropertyGroup>

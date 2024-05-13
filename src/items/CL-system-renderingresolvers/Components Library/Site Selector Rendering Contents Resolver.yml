@@ -1,12 +1,15 @@
 ﻿---
-ID: "a67d6e9e-b95c-4e78-85ba-a0851ec4c9eb"
-Parent: "36ce5c1b-afa7-4668-861d-35fc433f38c6"
-Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
-Path: "/sitecore/system/Settings/Feature/Components Library/Context-CL/Context-CL Headless Site Setup"
+ID: "f5b91464-8092-4eef-8710-57aa34263297"
+Parent: "fdf7004d-b071-4a88-9130-bba0959097b7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Components Library/Site Selector Rendering Contents Resolver
 SharedFields:
-- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
-  Hint: Dependencies
-  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
+- ID: "23b859e1-34f9-4711-a46a-dc0d616584ce"
+  Hint: ItemSelectorQuery
+  Value: ./*
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: ComponentsLibrary.ContentResolvers.SiteSelectorRenderingContentsResolver, ComponentsLibrary
 Languages:
 - Language: en
   Versions:
@@ -14,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240430T072156Z
+      Value: 20240215T151610Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +28,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1523375-cca0-4800-b6bc-56fdb91333c9"
+      Value: "36bfb917-3c3e-4a24-8f5f-52a3c9e185a2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
-    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
-      Hint: Name
-      Value: "Context-CL"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T083427Z
+      Value: 20240513T085927Z

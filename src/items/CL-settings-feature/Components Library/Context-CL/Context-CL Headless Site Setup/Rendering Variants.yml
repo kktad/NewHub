@@ -1,12 +1,8 @@
 ﻿---
-ID: "a67d6e9e-b95c-4e78-85ba-a0851ec4c9eb"
-Parent: "36ce5c1b-afa7-4668-861d-35fc433f38c6"
-Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
-Path: "/sitecore/system/Settings/Feature/Components Library/Context-CL/Context-CL Headless Site Setup"
-SharedFields:
-- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
-  Hint: Dependencies
-  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
+ID: "a932ebba-f38e-43ac-8273-3fbb0f2121bd"
+Parent: "a67d6e9e-b95c-4e78-85ba-a0851ec4c9eb"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/system/Settings/Feature/Components Library/Context-CL/Context-CL Headless Site Setup/Rendering Variants"
 Languages:
 - Language: en
   Versions:
@@ -14,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240430T072156Z
+      Value: 20240513T083428Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +21,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f1523375-cca0-4800-b6bc-56fdb91333c9"
+      Value: "db130505-73f0-4da5-b304-7feae671c723"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
-    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
-      Hint: Name
-      Value: "Context-CL"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240513T083427Z
+      Value: 20240513T083428Z
