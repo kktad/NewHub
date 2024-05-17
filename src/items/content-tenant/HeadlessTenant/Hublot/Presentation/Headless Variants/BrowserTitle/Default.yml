@@ -1,12 +1,13 @@
 ﻿---
-ID: "c0c82308-ff2a-42a4-bd12-78e0e22fae14"
-Parent: "f7f33267-34fb-47b5-afd2-4af78c20e126"
-Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
-Path: "/sitecore/system/Settings/Feature/Components Library/SiteMetadata-CL/SiteMetadata-CL Headless Site Setup"
+ID: "5032098d-6354-480f-8e15-a45e2f79192d"
+Parent: "86835b7b-9c3d-40d6-87ae-3fd6b7679f71"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/HeadlessTenant/Hublot/Presentation/Headless Variants/BrowserTitle/Default
+BranchID: "42799038-50d5-4ce0-98ba-292b7ee5ed74"
 SharedFields:
-- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
-  Hint: Dependencies
-  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2DC088E6-D87A-4805-A6C1-CE947FDA8ACB}"
 Languages:
 - Language: en
   Versions:
@@ -14,7 +15,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240430T072040Z
+      Value: 20240516T063420Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +26,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "03f3650b-9cbe-4b42-bec3-8a60febeb900"
+      Value: "096b2398-ff45-4a8b-b6a4-d8fe3844d928"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
-    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
-      Hint: Name
-      Value: "SiteMetadata-CL"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240515T101642Z
+      Value: 20240516T063420Z
