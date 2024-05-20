@@ -1,26 +1,28 @@
 ﻿---
-ID: "0e775592-1b33-4e23-a655-9dc49253e062"
-Parent: "ad18e950-ad56-4eff-b32b-12e2c6914a5c"
-Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
-Path: "/sitecore/content/HeadlessTenant/Hublot/Presentation/Available Renderings/SiteMetadata-CL"
-BranchID: "0bc51819-1187-46a2-b590-316ba413fbc6"
+ID: "7878adab-86d5-4aad-bdb1-1c4356c56fb2"
+Parent: "653504a4-f971-413f-a182-343a173e1bad"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/HeadlessTenant/Hublot/Presentation/Headless Variants/CanonicalUrl
+BranchID: "8390d943-96b8-41cf-8018-305b49ff1923"
 SharedFields:
-- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
-  Hint: Renderings
-  Value: |
-    {8D4A03B2-97DB-4A7A-A026-BEDF60BDE1B1}
-    {FEE01367-05AD-4F08-A542-0EEA590FA0EF}
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/scroll.png
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
-  Value: "{815362FA-92B6-42C5-AC57-144A4B9058A9}"
+  Value: "{781FFED5-AA6B-456A-B57D-E6E12773B060}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Page Content
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240516T063420Z
+      Value: 20240517T140016Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +33,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "07adbed2-4ad6-482b-aed9-2e1cae4eaf07"
+      Value: "1b861268-ba9e-464a-bfb1-1805578c849d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240517T140054Z
+      Value: 20240517T140016Z

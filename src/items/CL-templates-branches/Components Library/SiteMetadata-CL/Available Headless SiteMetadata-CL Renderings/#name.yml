@@ -6,7 +6,9 @@ Path: "/sitecore/templates/Branches/Feature/Components Library/SiteMetadata-CL/A
 SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
-  Value: "{8D4A03B2-97DB-4A7A-A026-BEDF60BDE1B1}"
+  Value: |
+    {8D4A03B2-97DB-4A7A-A026-BEDF60BDE1B1}
+    {FEE01367-05AD-4F08-A542-0EEA590FA0EF}
 Languages:
 - Language: en
   Versions:
@@ -21,11 +23,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c69f67b6-9400-42ce-894a-45d479077461"
+      Value: "6f26840f-453d-433a-8a32-0f76822c09fd"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240515T101642Z
+      Value: 20240517T135910Z
