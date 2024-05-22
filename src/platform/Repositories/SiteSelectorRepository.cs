@@ -11,6 +11,7 @@ using Sitecore.Data;
 using Sitecore.Data.Items;
 using Microsoft.Extensions.DependencyInjection;
 using ComponentsLibrary.Model;
+using Sitecore.Links;
 
 namespace ComponentsLibrary.Repositories
 {
@@ -35,7 +36,7 @@ namespace ComponentsLibrary.Repositories
         protected virtual SelectListItem BuildSelectListItem(Item m, ID currentSiteId) => new SelectListItem()
         {
             Text = m.DisplayName,
-            Value = m.ID.ToString(),
+            Value = LinkManager.GetItemUrl(m),
             Selected = m.ID == currentSiteId
         };
 
