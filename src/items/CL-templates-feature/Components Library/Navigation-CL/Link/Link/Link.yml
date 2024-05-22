@@ -1,18 +1,18 @@
 ﻿---
-ID: "c08db47f-28fd-4b90-a9fa-347309ff42a2"
-Parent: "ad18e950-ad56-4eff-b32b-12e2c6914a5c"
-Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
-Path: "/sitecore/content/HeadlessTenant/Hublot/Presentation/Available Renderings/Navigation-CL"
-BranchID: "20521a9e-7a09-493e-907e-c451a3069d40"
+ID: "f9104622-bd32-421a-9f91-dd7c0d0b8ab1"
+Parent: "63e364e6-5c84-48a4-8d54-55180db6d79e"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Feature/Components Library/Navigation-CL/Link/Link/Link"
 SharedFields:
-- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
-  Hint: Renderings
-  Value: |
-    {661F7AEF-29A8-4934-BD88-5C7E7AD8714E}
-    {69B8864D-13DC-4C6C-A68D-4E189140154E}
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{ED21D5CB-8448-4622-B811-21F5A67D9B84}"
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:$linkableHomes"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: General Link
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -20,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240430T100224Z
+      Value: 20240520T121111Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +31,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f54ffa07-b35a-48b8-b99f-e11700d35b21"
+      Value: "256588c2-fc33-49fa-bd19-f2282f63d737"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240520T145603Z
+      Value: 20240520T145421Z

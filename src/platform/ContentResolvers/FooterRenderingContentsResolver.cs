@@ -46,7 +46,7 @@ namespace ComponentsLibrary.ContentResolvers
                 return (object)jobject;
             jobject["footerimage"] = new JObject()
             {
-                ["url"] = LinkExtensions.GetImageUrl(contextItem.Fields["FooterImage"])
+                ["url"] = SitecoreLinkExtensions.GetImageUrl(contextItem.Fields["FooterImage"])
             };
             jobject["items"] = (JToken)this.ProcessItems((IEnumerable<Item>)list, rendering, renderingConfig);
             return (object)jobject;
@@ -85,7 +85,7 @@ namespace ComponentsLibrary.ContentResolvers
                 JObject jobject1 = this.ProcessItem(obj, rendering, renderingConfig);
                 JObject jobject2 = new JObject()
                 {
-                    ["link"] = LinkExtensions.GetUrl(obj.Fields["Link"], "FooterRenderingContentsResolver", obj.Paths.FullPath),
+                    ["link"] = SitecoreLinkExtensions.GetUrl(obj.Fields["Link"]),
                     ["text"] = obj.Fields["Text"].Value
                 };
                 jarray.Add((JToken)jobject2);
