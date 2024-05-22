@@ -46,7 +46,7 @@ namespace ComponentsLibrary.ContentResolvers
                     {
                         ["url"] = SitecoreLinkExtensions.GetUrl(linkField),
                         ["text"] = SitecoreLinkExtensions.GetTitle(linkField),
-                        ["style"] = item?.Fields["Link"].Style,
+                        ["className"] = linkField.Class,
                         ["target"] = linkField.Target,
                         ["linkType"] = linkField.LinkType
                     };
@@ -60,7 +60,7 @@ namespace ComponentsLibrary.ContentResolvers
                     {
                         ["url"] = LinkManager.GetItemUrl(item),
                         ["text"] = item?.Fields["title"].Value,
-                        ["style"] = datasource?.Fields["Link"].Style,
+                        ["className"] = linkField.Class,
                         ["target"] = linkField?.Target,
                         ["linkType"] = linkField?.LinkType
                     };

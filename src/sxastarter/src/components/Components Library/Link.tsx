@@ -4,7 +4,7 @@ interface Fields {
     item: {
         url: string,
         text: string,
-        style: string,
+        className: string,
         target: string,
         linkType: string
     };
@@ -15,7 +15,7 @@ type LinkProps = ComponentProps & {
 
 export const Default = (props: LinkProps): JSX.Element => {
     console.log("-----------------------Link---------------------------")
-    console.log(props.fields)
+    console.log(props)
     return (
         <div className="">
             <span>
