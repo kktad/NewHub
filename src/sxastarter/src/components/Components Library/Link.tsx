@@ -18,9 +18,7 @@ export const Default = (props: LinkProps): JSX.Element => {
     console.log(props)
     return (
         <div className="">
-            <span>
-                Link Test
-            </span>
+            <a href={props.fields.item.url}>{props.fields.item.text}</a>
         </div>
     );
 }
