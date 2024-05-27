@@ -14,12 +14,18 @@ type LanguageSelectorProps = ComponentProps & {
     fields: Fields;
 };
 export const Default = (props: LanguageSelectorProps): JSX.Element => {
-    console.log(props)
+    console.log(props.fields.items)
+    const langdrop = props.fields.items
     return (
-        <div className="">
-            <span>
+        <div className="lang--selector">
+            <div className="lang--selector--head">
                 Language Selector
-            </span>
+            </div>
+            <select>
+         {langdrop.map(option =>(
+             <option value = {option.datacountrycode}>{option.languagenativename}</option>
+         ))}
+        </select>
         </div>
     );
 }
