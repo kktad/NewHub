@@ -229,7 +229,7 @@ a[target='_blank']:after {
 }
 .hero {
   background-color: #000;
-  // height: 53rem;
+  height: 53rem;
 }
 .heroImg {
   position: absolute;
@@ -393,100 +393,6 @@ a[target='_blank']:after {
 }
 .productDatasetting .productimage img:hover {
   transform: scale(1.1);
-}
-
-// newly added css for site selector and lang selector
-.lang--selector{
-  width: 400px;
-  margin: 0 auto;
-  text-align: center;
-}
-select{
-  width: 253px;
-  margin-top: 20px;
-  text-align: center;
-  border: 0;
-}
-.lang--selector--head{
-  background: 0 0;
-  color: #232323;
-  border: transparent;
-  line-height: 1.5;
-  font-size: 24px;
-  font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
-  border-bottom: 1px solid red;
-  text-align: center;
-  padding: 12px;
-}
-.lang-main-head{
-  color: #232323;
-  font-size: 24px;
-  font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
-  border-bottom: 1px solid red;
-  padding: 12px;
- 
-}
-.lang-main-head a {
-  border: 0;
-  margin: 0;
-  color: #232323;;
-}
-.lang-main-head{
-  margin-left: 174px;
-  margin-right: 174px;
-}
-.main-head-para{
-  margin-left: 174px;
-  margin-right: 174px;
-}
-.main-head-para .field-content{
-  font-weight: 400;
-  font-size: 16px;
-  font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
-}
-.lang-left{
-  text-align: center;
-  margin-left: 300px;
-}
-.lang-left p{ 
-  text-align: center;
-  font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif;
-  color: #232323;
-  padding: 20px;
-}
-.lang-site-right{
-  text-align: center;
-  margin-right: 300px !important;
-  padding: 20px;
-
-}
-
-// site selector css
-.site-selector-subhead{
-  color: #232323;
-  font-size: 24px;
-  font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
-  text-align: center;
-  padding: 12px;
-}
-.site-selector-left{
-  text-align: center;
-  margin-left: 300px !important;
-  padding: 20px;
-  border-right-width: 3px;
-  border-right-color: #c00;
-  border-style: solid;
-  border-left-color: white;
-  border-bottom-color: white;
-  border-top-color: white;
-}
-.site-selector-select{
-  margin-top: 0;
-}
-.site--selector{
-  margin-left: 100px;
-  border: 1px solid #f0f0f0;
-  width: 300px;
 }
 
 /*
