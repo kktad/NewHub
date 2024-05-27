@@ -1,8 +1,8 @@
 ﻿---
-ID: "f9a90f95-139e-4cb4-9063-77e030054865"
-Parent: "a1ebfc3b-8244-422a-a909-441a1bd96702"
+ID: "99c9a4a6-5e79-4f86-a92d-36ebd2efbd14"
+Parent: "72a924fc-bdd1-46b0-a938-f6866d9e0a0c"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Language Selector/Data/Text 3
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Breadcrumb/Data/Text 11
 Languages:
 - Language: en
   Versions:
@@ -13,30 +13,25 @@ Languages:
       Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240527T083618Z
+      Value: 20240524T103917Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
-      Value: |
-        <div class="component content col-12 indent-bottom main-head-para">
-        <div class="component-content">
-        <div class="field-content">Once your business has gone international, you will quickly need to think about customizing your site for different languages.</div>
-        </div>
-        </div>
+      Value: <p>Breadcrumb Navigation</p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "dba3bd58-17f2-4940-b468-938ff4b75309"
+      Value: "04b0367b-ce55-4e1e-8844-d27b01184697"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240527T092920Z
+      Value: 20240524T104727Z

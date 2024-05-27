@@ -1,0 +1,38 @@
+﻿---
+ID: "17de9189-65ab-41f5-9eec-88b3b8d18a8f"
+Parent: "19ddc600-bacc-4e8d-9400-add563d3b921"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Link/Data/Text 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240524T105350Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivas.vennamalla@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivas.vennamalla@credera.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2 style="box-sizing: inherit; border: 0px; outline: 0px; font-weight: lighter; font-size: 1.5em; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif; vertical-align: baseline;">General Link</h2><p style="box-sizing: inherit; border: 0px; outline: 0px; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif; vertical-align: baseline; color: rgb(35, 35, 35);">This SXA component is based on Sitecore's general link and as such it allows you to link to any arbitrary location. As with any other SXA components you can define a link once and reuse it across the entire market.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7f0fd36-8d7e-48f2-972e-9638bc432814"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\srinivas.vennamalla@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240524T105831Z

@@ -1,8 +1,8 @@
 ﻿---
-ID: "5fc5c926-81fe-4b3c-bb0e-4a5a1cff4f99"
-Parent: "a1ebfc3b-8244-422a-a909-441a1bd96702"
+ID: "df1d3ed6-935c-451f-a197-103fea5df9c4"
+Parent: "72a924fc-bdd1-46b0-a938-f6866d9e0a0c"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Language Selector/Data/Text 5
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Breadcrumb/Data/Text 6
 Languages:
 - Language: en
   Versions:
@@ -13,26 +13,26 @@ Languages:
       Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240527T083835Z
+      Value: 20240524T103634Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <p class="lang-site-right"><span style="text-align: center; font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif; color: #232323;">With Site and Language Selectors it is so easy now to make use of multilingual sites!</span></p>
+        <span style="color: rgb(35, 35, 35); font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif;">Sometimes you need more than just a path. With navigation turned on, breadcrumb shows siblings of a hovered elements, allowing users to navigate outside of the current path.</span>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "72b0420c-c025-4802-ac58-2a3d86674a22"
+      Value: "f8582c40-c621-40d9-b45a-f716c0afa55e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240527T093542Z
+      Value: 20240524T104141Z

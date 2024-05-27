@@ -1,8 +1,8 @@
 ﻿---
-ID: "ee970c14-de04-4f41-bc06-059302cbaf46"
-Parent: "fc60923d-052b-48b4-9410-3931c1c0b999"
-Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
-Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Site Selector/Data
+ID: "1be063d2-d7aa-4971-8e7e-a0ef3384c829"
+Parent: "72a924fc-bdd1-46b0-a938-f6866d9e0a0c"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Breadcrumb/Data/Text 9
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240527T094123Z
+      Value: 20240524T103827Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6c5b8502-016c-4d76-b0bb-5a68a8d2e5c2"
+      Value: "fd536eee-ce38-4d0a-9eef-00d08cce20fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240527T094123Z
+      Value: 20240524T103827Z
