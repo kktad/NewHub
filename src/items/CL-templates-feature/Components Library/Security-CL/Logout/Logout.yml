@@ -1,0 +1,31 @@
+﻿---
+ID: "2d0e96b9-1f54-443f-9c29-c09f1d24558a"
+Parent: "5a4e11e4-18f7-45bd-8dca-326407c81eac"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Feature/Components Library/Security-CL/Logout/Logout"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T144631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "acb5bdb5-60fa-44db-a4b1-bc3e23ebeaab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T144705Z

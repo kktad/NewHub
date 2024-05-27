@@ -6,35 +6,43 @@
         "includes": [
 			{
                 "name": "CL-layout-feature",
-                "path": "/sitecore/layout/Layouts/Feature/Components Library"
+                "path": "/sitecore/layout/Layouts/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
             {
                 "name": "CL-renderings-feature",
-                "path": "/sitecore/layout/Renderings/Feature/Components Library"
+                "path": "/sitecore/layout/Renderings/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
 			{
                 "name": "CL-placeholders-feature",
-                "path": "/sitecore/layout/Placeholder Settings/Feature/Components Library"
+                "path": "/sitecore/layout/Placeholder Settings/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
             {
                 "name": "CL-media-library-feature",
-                "path": "/sitecore/media library/Feature/Components Library"
+                "path": "/sitecore/media library/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
              {
                 "name": "CL-settings-feature",
-                "path": "/sitecore/system/Settings/Feature/Components Library"
+                "path": "/sitecore/system/Settings/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
             {
                 "name": "CL-system-renderingresolvers",
-                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Components Library"
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
             {
                 "name": "CL-templates-branches",
-                "path": "/sitecore/templates/Branches/Feature/Components Library"
+                "path": "/sitecore/templates/Branches/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             },
             {
                 "name": "CL-templates-feature",
-                "path": "/sitecore/templates/Feature/Components Library"
+                "path": "/sitecore/templates/Feature/Components Library",
+                "allowedPushOperations": "createAndUpdate"
             }
         ]
     }

@@ -1,0 +1,52 @@
+﻿---
+ID: "8485bb0c-f11d-49fb-837e-9e00470bfb40"
+Parent: "15bba5e8-f31a-499a-98de-56dc91b67bb6"
+Template: "208fd3db-08b3-4bca-a8ad-77e84de60050"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Login
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{7B7277AB-F82C-477E-8033-22387576283A}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{08C6B74C-4A03-488A-A63D-C0F3B22A9EBA}"
+              s:ds="{75EB227A-9B43-4BB4-8F5B-A042EA58D691}"
+              s:id="{07F61C03-EB7B-4439-8A7D-5E751A839089}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6EBE7EFC-8647-4DE7-978A-AF323CFFD330%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T145220Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Login
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc296324-0303-45e0-b1c8-a6a76f1f80a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T145321Z
+    - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
+      Hint: Title
+      Value: Login

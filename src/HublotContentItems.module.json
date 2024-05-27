@@ -6,7 +6,8 @@
         "includes": [
             {
                 "name": "content-tenant",
-                "path": "/sitecore/content/HeadlessTenant"
+                "path": "/sitecore/content/HeadlessTenant",
+                "allowedPushOperations": "createAndUpdate"
             }
         ]
     }

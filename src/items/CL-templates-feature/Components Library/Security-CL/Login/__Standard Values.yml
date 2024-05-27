@@ -1,0 +1,50 @@
+﻿---
+ID: "392ca0ca-f53f-4d8e-9f15-aab485eb09bd"
+Parent: "7d396718-8657-4db5-b6ce-beab73cb31df"
+Template: "7d396718-8657-4db5-b6ce-beab73cb31df"
+Path: "/sitecore/templates/Feature/Components Library/Security-CL/Login/__Standard Values"
+SharedFields:
+- ID: "e83d2e3d-5e3f-48a8-8d96-5f335d511474"
+  Hint: DisplayRememberMe
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "10369ae6-6c46-4f6d-9c22-434030f7120f"
+      Hint: FailureText
+      Value: Your login attempt was not successful. Please try again.
+    - ID: "251bb367-8904-4bf8-b12b-c4d26d69de26"
+      Hint: UsernameLabel
+      Value: "Username:"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240527T144710Z
+    - ID: "324578be-0ed5-45e4-b816-c42bed400486"
+      Hint: PasswordLabel
+      Value: "Password:"
+    - ID: "4c2a4281-41ec-4c7a-a4d6-086b353be8fd"
+      Hint: RememberMeLabel
+      Value: Remember Me
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0415bc72-3a2d-4892-8048-75ac496ab6fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240527T144754Z
+    - ID: "e2c45bf6-34cf-479f-bdc6-2539d7d19289"
+      Hint: LoginButtonCaption
+      Value: Login
