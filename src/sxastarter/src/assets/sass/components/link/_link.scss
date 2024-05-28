@@ -1,0 +1,23 @@
+.link-container{
+    max-width: 1170px;
+    margin: 0 auto !important;
+    .column-splitter.link-border > div > .row{ 
+            margin: 10px 10px;
+            padding: 15px 0;
+            border-top: 2px solid #c00;
+    }
+    a{
+        text-decoration: none;
+        font-size: 1em;
+        color: #232323;
+    }
+    :hover{
+        color: #878787;
+    }
+    .success, .warning{
+        color: #fff !important;
+    }
+    .success:hover, .warning:hover{
+        color: #fff !important;
+    }
+}

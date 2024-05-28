@@ -1,8 +1,8 @@
 ﻿---
-ID: "550a0c9a-c525-4d0e-a0ce-686aeb544038"
+ID: "c85e0190-fdec-48f3-a981-d3d04f6c85aa"
 Parent: "19ddc600-bacc-4e8d-9400-add563d3b921"
 Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
-Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Link/Data/Text 3
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Link/Data/Text 14
 Languages:
 - Language: en
   Versions:
@@ -13,7 +13,7 @@ Languages:
       Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240524T105513Z
+      Value: 20240528T092138Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,14 +25,14 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <span style="color: rgb(35, 35, 35); font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif;">Looking for more? Here you are: anchors to other sections of your page, mailto links that open the local e-mail client and even links that run JavaScript code once they are clicked.&nbsp;<br /><br /><br />​</span>
+        <span style="color: rgb(35, 35, 35); font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif;">and&nbsp;</span><span style="box-sizing: inherit; border: 0px; outline: 0px; font-weight: 700; font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif; vertical-align: baseline; color: rgb(35, 35, 35);">warning</span><span style="color: rgb(35, 35, 35); font-family: &quot;Open Sans&quot;, Helvetica, Verdana, Tahoma, sans-serif;">&nbsp;that is perfect to denote failure or cancellation,</span>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a9be5907-28c1-4b6b-a549-63409deecf5e"
+      Value: "3a9d8410-2dca-4d4d-83f5-316dd372fbe0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240528T093715Z
+      Value: 20240528T092208Z

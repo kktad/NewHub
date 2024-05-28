@@ -25,15 +25,15 @@ Languages:
     - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
       Hint: Text
       Value: |
-        <p><span style="font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif; color: #232323;">Let's start with the obvious. You can insert external links as well as link to other pages within your website.</span></p>
-        <p><span style="background-color: #ffffff; font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif; color: #232323;">Do you know what SXA is? Check these external resources first:<br />​<a href="~/link.aspx?_id=5598E1DBBC074466B70775CD942CE87B&amp;_z=z">Beauty of CSS design<br /></a></span></p>
+        <p><span style="font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif; color: #232323;">Let's start with the obvious. You can insert external links as well as link to other pages within your website.<br />​</span></p><p><br /></p><p><br /></p>
+        <p><span style="background-color: #ffffff; font-family: 'Open Sans', Helvetica, Verdana, Tahoma, sans-serif; color: #232323;">Do you know what SXA is? Check these external resources first:</span></p>
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e62568f1-d5da-4388-9bad-ba58b2b11828"
+      Value: "6702a584-1e73-43f6-bf30-2a5acbe4bc98"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240524T110314Z
+      Value: 20240528T081033Z
