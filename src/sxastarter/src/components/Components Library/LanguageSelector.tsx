@@ -21,11 +21,13 @@ export const Default = (props: LanguageSelectorProps): JSX.Element => {
             <div className="lang--selector--head">
                 Language Selector
             </div>
-            <select>
-         {langdrop.map(option =>(
-             <option value = {option.datacountrycode}>{option.languagenativename}</option>
-         ))}
-        </select>
+            <div className="image">
+                <select>
+                {langdrop.map(option =>(
+                    <option value = {option.datacountrycode}>{option.languagenativename}</option>
+                ))}
+                </select>
+            </div>
         </div>
     );
 }

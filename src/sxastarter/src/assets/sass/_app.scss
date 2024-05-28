@@ -491,6 +491,12 @@ select:focus-visible{
   width: 300px;
   margin-top: 30px;
 }
+.image{
+  background-image: url("https://www.sxastarter.localhost/-/media/Themes/Wireframe/images/sprite-flag");
+  background-position: 41px -5774px;
+  z-index: 99999;
+  width: 20px;
+}
 
 /*
   Hides Sitecore Experience Editor markup,
