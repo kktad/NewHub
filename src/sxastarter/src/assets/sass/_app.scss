@@ -407,6 +407,12 @@ select{
   text-align: center;
   border: 0;
 }
+select:focus-visible{
+  outline: none;
+}
+.site-selector-select:focus-visible{
+  outline: none;
+}
 .lang--selector--head{
   background: 0 0;
   color: #232323;
@@ -424,6 +430,8 @@ select{
   font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
   border-bottom: 1px solid red;
   padding: 12px;
+  margin-left: 250px;
+  width: 70%;
  
 }
 .lang-main-head a {
@@ -435,6 +443,7 @@ select{
   font-weight: 400;
   font-size: 16px;
   font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+  margin-left: 250px;
 }
 .lang-left{
   text-align: center;
@@ -470,6 +479,8 @@ select{
   border-left-color: white;
   border-bottom-color: white;
   border-top-color: white;
+  margin-left: 300px;
+
 }
 .site-selector-select{
   margin-top: 0;
@@ -478,6 +489,7 @@ select{
   margin-left: 100px;
   border: 1px solid #f0f0f0;
   width: 300px;
+  margin-top: 30px;
 }
 
 /*
