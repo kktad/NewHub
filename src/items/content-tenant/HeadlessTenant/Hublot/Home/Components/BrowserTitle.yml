@@ -38,14 +38,14 @@ Languages:
       Value: BrowserTitle
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "86fda975-b8ac-4e46-9a1f-667f7a357db0"
+      Value: "c888ac9b-6555-420d-88af-fb0f547317d4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240516T094815Z
+      Value: 20240528T131213Z
     - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
       Hint: Title
-      Value: BrowserTitle
+      Value: BrowserTitle Test

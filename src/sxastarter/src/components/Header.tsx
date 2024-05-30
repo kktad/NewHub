@@ -58,7 +58,8 @@ const Header = (props: HeaderProps): JSX.Element => {
         text={element.text.field}
       />
     ));
-    const headerImage = datasource.headerimage.field.value.src;
+    const headerImage = "https://www.sxastarter.localhost/"+ datasource.headerimage.field.value.src;
+    console.log(headerImage)
     return (
       <div>
         <div className="header">

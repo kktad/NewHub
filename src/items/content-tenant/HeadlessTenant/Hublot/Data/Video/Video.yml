@@ -1,0 +1,30 @@
+﻿---
+ID: "cc0cd4fb-5b4c-4eb6-9771-6f09c36ea676"
+Parent: "15472eff-e7f6-4705-8ae0-8ce2d7e2f9c3"
+Template: "32a885db-ae56-44c3-97ac-377d72397dad"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Video/Video
+SharedFields:
+- ID: "acecfd41-2ebc-436c-9376-4c4c7e6d6383"
+  Hint: MovieLength
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240530T103536Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f402862-c938-4229-b2b4-29d38bd8ffa5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
+      Hint: YoutubeMovie
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T113717Z

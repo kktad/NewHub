@@ -1,0 +1,33 @@
+﻿---
+ID: "2005b89f-8ad7-440e-8334-4450b753e7d0"
+Parent: "90c9c769-47ae-49ea-9b9a-e3063692b612"
+Template: "90c9c769-47ae-49ea-9b9a-e3063692b612"
+Path: "/sitecore/templates/Feature/Components Library/Maps-CL/Map Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {65C40B53-6CE8-446A-BA5F-2E0BBABA338A}
+    {90C9C769-47AE-49EA-9B9A-E3063692B612}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c97c019-06c2-4be5-a7f3-118768c372ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240530T094106Z

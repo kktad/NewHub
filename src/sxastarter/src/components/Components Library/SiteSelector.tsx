@@ -1,4 +1,3 @@
-import { event } from "@sitecore-cloudsdk/events/browser";
 import { ComponentProps } from "lib/component-props";
 import { useState } from "react";
 type SiteSelector = {
