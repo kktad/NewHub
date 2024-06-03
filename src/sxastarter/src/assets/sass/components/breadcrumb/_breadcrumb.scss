@@ -88,3 +88,75 @@
         }
     }
 }
+.login--head{
+    color: #232323;
+    font-size: 24px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto;
+    border-bottom: 1px solid red;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.login-sub-head{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto !important;
+}
+.Login--view{
+    max-width: 1170px;
+    margin: 0 auto !important;
+    margin-top: 50px !important;
+    .first--name, .password{
+        display: flex;
+        margin-bottom: 30px;
+    }
+    .login--labels{
+        min-width: 350px;
+        font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .login--input{
+        width: 100%;
+        border: 1px solid #ccbebe;
+        border-radius: 8px;
+    }
+    .login--remember{
+        font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .submit-btn{
+        border: 2px solid #232323;
+        padding: 8px 23px;
+        font-size: 14px;
+        font-weight: 700;
+        transition: .3s;
+        color: #fff;
+        cursor: pointer;
+        background: #000;
+        margin-bottom: 40px;
+    }
+    .error-msg{
+        color: red;
+    }
+
+}
+.Logout--view{
+    .submit-btn{
+        border: 2px solid #232323;
+        padding: 8px 23px;
+        font-size: 14px;
+        font-weight: 700;
+        transition: .3s;
+        color: #fff;
+        cursor: pointer;
+        background: #000;
+        margin-bottom: 40px;
+    }
+}
+
