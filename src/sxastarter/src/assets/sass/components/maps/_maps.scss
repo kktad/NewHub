@@ -1,0 +1,21 @@
+.map-container{  
+    max-width: 1170px;
+    margin: 0 auto !important;
+    .field-title{
+        p{
+            border-bottom:1px solid #fe2911;
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #232323;
+            line-height: normal;
+            padding-bottom: 10px;
+            display: block;
+        }
+    }
+    .rich-text{
+        h4{
+            font-size: 1.3rem;
+        }
+    }
+
+}
