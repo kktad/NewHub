@@ -1,0 +1,42 @@
+﻿---
+ID: "974f82ac-01ea-4fbb-99e9-26178d10cfbd"
+Parent: "4843b87c-1382-47e1-80a5-df3bc25e48f2"
+Template: "621f27b7-c077-48c3-bb62-fdeea90c4e37"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Galleries/Gallery/Garden
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161014T122452Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b376f06f-d7d5-4c99-87f1-1a9ec6425398"
+    - ID: "a4d0441d-1ebb-4674-b86f-318770a92ad5"
+      Hint: ImageTitle
+      Value: Garden
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T132316Z
+    - ID: "f13d3442-babf-4950-a4e2-e5e7eb486e18"
+      Hint: Image
+      Value: |
+        <image mediaid="{6B0FC0AE-96C8-480D-9545-584828639862}" ></image>

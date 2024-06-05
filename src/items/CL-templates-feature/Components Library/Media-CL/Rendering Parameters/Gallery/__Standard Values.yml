@@ -1,0 +1,27 @@
+﻿---
+ID: "1d970744-f7a8-47d2-a833-88223d1e7e46"
+Parent: "eb02ae30-59a5-4296-805b-6beb57c1fb0c"
+Template: "eb02ae30-59a5-4296-805b-6beb57c1fb0c"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Rendering Parameters/Gallery/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e18513c1-891a-492e-8d82-ee5dd0366884"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T111752Z

@@ -1,0 +1,43 @@
+﻿---
+ID: "588f9c09-60ec-40dc-977b-7611102fb2ec"
+Parent: "4843b87c-1382-47e1-80a5-df3bc25e48f2"
+Template: "1df8e390-1ee6-45d2-8582-7e7951adb571"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Galleries/Gallery/Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240605T134636Z
+    - ID: "3e9bc262-07e4-4feb-a767-7a9ce7e0e16d"
+      Hint: VideoTitle
+      Value: Sitecor XM Cloud
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "79dd5255-7002-4275-8e57-ded180784b61"
+      Hint: VideoID
+      Value: "https://www.youtube.com/watch?v=p8DDS7jeZ8U"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38fd186d-32cd-4e03-af28-2d33e014acba"
+    - ID: "a0418eb8-a2c2-448a-8ede-376efbafe791"
+      Hint: VideoDescription
+      Value: Youtube video for testing
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240605T134821Z
+    - ID: "dc5abda2-1b5f-455e-b2ab-913588aa2a73"
+      Hint: VideoProvider
+      Value: "{9D072721-207D-4722-AB27-BC6B3588E12F}"
