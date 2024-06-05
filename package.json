@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@react-google-maps/api": "^2.19.3",
     "@types/uuid": "^9.0.8"
   }
 }
