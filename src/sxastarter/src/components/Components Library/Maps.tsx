@@ -1,4 +1,7 @@
 import { ComponentProps } from "lib/component-props";
+import React from "react";
+import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
+
 
 type POI = {
     title: {
@@ -14,7 +17,7 @@ type POI = {
         field: {
             href: string
         }
-    },
+    }, 
     pOIPage: {
         value: string
     }
@@ -52,11 +55,30 @@ interface Fields {
 type MapProps = ComponentProps & {
     fields: Fields;
 };
+  
+  
 export const Default = (props: MapProps): JSX.Element => {
-    console.log(props.fields.data.datasource)
-    return (
+    const { isLoaded } = useJsApiLoader({
+        id: 'google-map-script',
+        //googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY
+        googleMapsApiKey: "AIzaSyB0yaPcysmf-LVdUvoNgF2bkWzHmqgD6jE"
+      })
+    
+    console.log(props.fields.data.datasource.mode)
+    return isLoaded ? (
         <div>
-            Map Component
+            <GoogleMap mapContainerStyle={{
+                margin: "auto",
+                width: "100%",
+                height: "300px"
+                }}
+                center={{
+                    lat: 37.792950,
+                    lng: -122.398102
+                }}
+                zoom={17}
+                mapTypeId={google.maps.MapTypeId.ROADMAP}>
+            </GoogleMap>
         </div>
-    );
+    ): <></>;
 }
