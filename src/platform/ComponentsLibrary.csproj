@@ -78,20 +78,26 @@
   <ItemGroup>
     <Compile Include="ContentResolvers\LanguageSelectorRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\LinkRenderingContentsResolver.cs" />
+    <Compile Include="ContentResolvers\CarouselRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\SiteSelectorRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\BreadcrumbRenderingContentsResolver.cs" />
     <Compile Include="ContentResolvers\FooterRenderingContentsResolver.cs" />
     <Compile Include="Interface\IBreadcrumbRepository.cs" />
+    <Compile Include="Interface\ICarouselRepository.cs" />
     <Compile Include="Interface\ILanguageSelectorRepository.cs" />
     <Compile Include="Interface\ILinkRepository.cs" />
     <Compile Include="Interface\ISiteSelectorRepository.cs" />
     <Compile Include="Model\BreadcrumbRenderingModel.cs" />
+    <Compile Include="Model\CarouselNavigation.cs" />
+    <Compile Include="Model\CarouselRenderingModel.cs" />
+    <Compile Include="Model\CarouselSettings.cs" />
     <Compile Include="Model\LanguageSelectorItem.cs" />
     <Compile Include="Model\LanguageSelectorRenderingModel.cs" />
     <Compile Include="Model\LinkRenderingModel.cs" />
     <Compile Include="Model\LinkType.cs" />
     <Compile Include="Model\SiteSelectorRenderingModel.cs" />
     <Compile Include="Repositories\BreadcrumbRepository.cs" />
+    <Compile Include="Repositories\CarouselRepository.cs" />
     <Compile Include="Repositories\FakeBreadcrumbRepository.cs" />
     <Compile Include="Repositories\LanguageSelectorRepository.cs" />
     <Compile Include="Repositories\LinkRepository.cs" />

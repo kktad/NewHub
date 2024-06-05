@@ -1,0 +1,40 @@
+﻿---
+ID: "66740c74-7ab4-4a5c-b0ca-4a59ed3c7cf9"
+Parent: "8a315d33-05e4-4056-bdb1-a6464564b913"
+Template: "8a315d33-05e4-4056-bdb1-a6464564b913"
+Path: "/sitecore/templates/Feature/Components Library/Composites-CL/Rendering Parameters/Carousel/__Standard Values"
+SharedFields:
+- ID: "0eb6ff63-dbbb-48ce-a800-779d4c629d18"
+  Hint: PauseOnHover
+  Value: 1
+- ID: "3648b2a7-b816-43b3-a5b5-07ebcd723cea"
+  Hint: Navigation
+  Value: "{9416AFE5-2A95-4AF4-AE13-7F6127B19B5E}"
+- ID: "475cbc19-5c71-4f79-ad2f-d2f869206828"
+  Hint: Transition
+  Value: "{D4B706CC-7EEC-4DB9-A87D-123B29803490}"
+- ID: "df24f7f9-4da4-4918-8468-052b63b12855"
+  Hint: Timeout
+  Value: 2000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6dd1715-8d22-4538-bd06-f151890e98c4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T143425Z

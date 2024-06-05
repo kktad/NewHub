@@ -1,0 +1,52 @@
+﻿---
+ID: "233dff37-10bf-4b1a-9759-5a5803f070fa"
+Parent: "15bba5e8-f31a-499a-98de-56dc91b67bb6"
+Template: "208fd3db-08b3-4bca-a8ad-77e84de60050"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Carousel
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{35D47A04-AAA7-4D3F-A036-34C4CAF24E26}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{CA5F0F6C-5ACE-4824-B25B-F520F863B344}"
+              s:ds="{05206889-C045-4F81-BD45-96744338FBA4}"
+              s:id="{66C585D2-3695-4A23-B1B9-9D7E0920B8D7}"
+              s:par="Navigation=%7B9416AFE5-2A95-4AF4-AE13-7F6127B19B5E%7D&amp;Transition=%7BD4B706CC-7EEC-4DB9-A87D-123B29803490%7D&amp;Timeout=2000&amp;PauseOnHover=1&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B6922DC0D-89E9-43B2-A4DA-060D1037E84D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240603T143853Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Carousel
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "decbb651-b644-4e4b-bc45-952994faa72b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240604T111006Z
+    - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
+      Hint: Title
+      Value: Carousel

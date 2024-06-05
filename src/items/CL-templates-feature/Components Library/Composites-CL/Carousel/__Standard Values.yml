@@ -1,0 +1,33 @@
+﻿---
+ID: "c6f7161a-4771-457a-98a8-a54bbfb91684"
+Parent: "7c70d943-d3b5-4a51-b9e1-436adbffb563"
+Template: "7c70d943-d3b5-4a51-b9e1-436adbffb563"
+Path: "/sitecore/templates/Feature/Components Library/Composites-CL/Carousel/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {2E0CE0DC-232E-4870-9B41-D1ED8973BA21}
+    {7C70D943-D3B5-4A51-B9E1-436ADBFFB563}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "381c63af-1606-49a6-937f-89ea0fce07e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240603T142555Z

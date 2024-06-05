@@ -1,15 +1,12 @@
 ﻿---
-ID: "eb5f6bf9-1068-4a7b-ba55-bfd827513936"
-Parent: "59b41b5f-e22e-460b-941e-fb64fe8da8fc"
-Template: "a6868d65-d612-401f-a40a-cd5ba0857b81"
-Path: /sitecore/system/Settings/Services/API Keys/xmcloudpreview
+ID: "ba5d7a2e-5a1b-4df5-9052-f8a9ba0c0a40"
+Parent: "42fae050-54e9-48ae-88b2-73349fbc4148"
+Template: "7c70d943-d3b5-4a51-b9e1-436adbffb563"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Carousels/Home
 SharedFields:
-- ID: "780c8e48-fe03-4a73-90dc-9bb5296b95d7"
-  Hint: CORS Origins
-  Value: *
-- ID: "99ba91ec-f0d3-4372-b638-67c2402a2484"
-  Hint: AllowedControllers
-  Value: *
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7FA72CB2-AB57-4207-B1B5-48EF497810BC}"
 Languages:
 - Language: en
   Versions:
@@ -17,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200526T202811Z
+      Value: 20190412T232710Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2fb0590b-ba95-44c3-a2a7-de01c419d575"
+      Value: "9b973368-f78b-4582-897e-17546dadda6d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200526T202815Z
+      Value: 20240604T103940Z
