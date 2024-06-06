@@ -2,7 +2,7 @@
 ID: "35675e87-f685-4dbe-9781-c3e6fc86dc21"
 Parent: "dfe46659-3b67-40f3-b8ee-897a73aa7a03"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery/Galleria/GalleriaTheme"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/GalleryCL/Galleria/GalleriaTheme"
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source

@@ -2,7 +2,7 @@
 ID: "d7700700-a4f4-4eac-a010-e022931868f0"
 Parent: "ba9c8fc0-6328-4c87-9e7c-0fbe05dc6231"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Image/Image/ImageDescription"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Image CL/Image/ImageDescription"
 SharedFields:
 - ID: "24cb32f0-e364-4f37-b400-0f2899097b5b"
   Hint: Enable Shared Language Fallback

@@ -1,30 +1,18 @@
 ﻿---
-ID: "dc5abda2-1b5f-455e-b2ab-913588aa2a73"
-Parent: "4add81fc-17c8-45fb-b3c5-b3982dba51e4"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Video/Video/VideoProvider"
+ID: "ba9c8fc0-6328-4c87-9e7c-0fbe05dc6231"
+Parent: "621f27b7-c077-48c3-bb62-fdeea90c4e37"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Image CL/Image"
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: /sitecore/system/Settings/Feature/Experience Accelerator/Media/Enums/Video Provider
-- ID: "24cb32f0-e364-4f37-b400-0f2899097b5b"
-  Hint: Enable Shared Language Fallback
-  Value: 1
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: Droplink
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 100
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/photo_landscape.png
 Languages:
 - Language: "de-DE"
   Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: Anbieter
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: VideoAnbieter
+    Value: Bild
   Versions:
   - Version: 1
     Fields:
@@ -50,37 +38,31 @@ Languages:
       Hint: __Updated
       Value: 20240605T105858Z
 - Language: en
-  Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: Provider
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20130326T121300
+      Value: 20130326T121312
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "39477342-6621-4258-b020-045c3a680eb9"
+      Value: "508444a4-927f-4c61-a3f3-56f9999c2bb6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240605T112534Z
-    - ID: "fa622538-0c13-4130-a001-45984241aa00"
-      Hint: Enable Language Fallback
-      Value: 1
+      Value: 20240605T112516Z
 - Language: "ja-JP"
   Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: プロバイダー
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: 動画プロバイダー
+    Value: Image
   Versions:
   - Version: 1
     Fields:
@@ -107,12 +89,9 @@ Languages:
       Value: 20240605T105858Z
 - Language: "zh-CN"
   Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: 供应商
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: 视频提供商
+    Value: 图片
   Versions:
   - Version: 1
     Fields:

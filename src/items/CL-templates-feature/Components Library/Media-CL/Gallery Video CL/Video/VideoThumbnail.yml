@@ -2,7 +2,7 @@
 ID: "1e37fbe1-5181-4e29-b6ac-9a1ab74a64b8"
 Parent: "4add81fc-17c8-45fb-b3c5-b3982dba51e4"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Video/Video/VideoThumbnail"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Video CL/Video/VideoThumbnail"
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source

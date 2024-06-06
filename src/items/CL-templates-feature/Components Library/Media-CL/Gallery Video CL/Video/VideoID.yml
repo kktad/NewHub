@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0418eb8-a2c2-448a-8ede-376efbafe791"
+ID: "79dd5255-7002-4275-8e57-ded180784b61"
 Parent: "4add81fc-17c8-45fb-b3c5-b3982dba51e4"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Video/Video/VideoDescription"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery Video CL/Video/VideoID"
 SharedFields:
 - ID: "24cb32f0-e364-4f37-b400-0f2899097b5b"
   Hint: Enable Shared Language Fallback
@@ -12,16 +12,16 @@ SharedFields:
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 400
+  Value: 200
 Languages:
 - Language: "de-DE"
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: Text (Linkbeschreibung)
+    Value: Video ID /gesamte URL oder nur der wichtige Teil von ihr)
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: VideoBeschreibung
+    Value: VideoID
   Versions:
   - Version: 1
     Fields:
@@ -50,16 +50,16 @@ Languages:
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: Description
+    Value: Video ID (entire URL or just the significant part of it)
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20130327T143200
+      Value: 20130326T121300
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0bd9e9a1-569e-4912-8297-64ff2c58d8fa"
+      Value: "90b7fed1-149a-4114-b184-19e1efb1e939"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -74,10 +74,10 @@ Languages:
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: 説明
+    Value: 動画 ID （URL全体またはURLのかなりの部分）
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: 動画解説
+    Value: 動画 ID
   Versions:
   - Version: 1
     Fields:
@@ -106,10 +106,10 @@ Languages:
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: 描述
+    Value: 视频ID（整个网址或只是其中的重要部分）
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
     Hint: __Display name
-    Value: 视频说明
+    Value: 视频ID
   Versions:
   - Version: 1
     Fields:

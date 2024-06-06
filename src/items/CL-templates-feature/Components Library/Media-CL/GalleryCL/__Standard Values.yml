@@ -2,7 +2,7 @@
 ID: "59b21c88-c7ee-4338-a51d-384f5ac9c160"
 Parent: "569f213f-c7a1-4985-95b2-5456441d7a9a"
 Template: "569f213f-c7a1-4985-95b2-5456441d7a9a"
-Path: "/sitecore/templates/Feature/Components Library/Media-CL/Gallery/__Standard Values"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/GalleryCL/__Standard Values"
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters
