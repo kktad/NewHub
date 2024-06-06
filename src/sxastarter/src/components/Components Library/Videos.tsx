@@ -1,5 +1,5 @@
 import { ComponentProps } from "lib/component-props";
-
+import video from 'next-video';
 interface Fields {
     data: {
         datasource: {
@@ -80,5 +80,5 @@ export const Default = (props: VideoProps): JSX.Element => {
         controls 
         autoPlay
         src={props.fields.data.datasource.youtubeMovie.value}  />
-    );
+                );
 }
