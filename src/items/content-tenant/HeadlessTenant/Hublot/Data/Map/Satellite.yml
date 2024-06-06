@@ -1,9 +1,12 @@
 ﻿---
-ID: "5e233f16-bce4-4e57-88e1-44bf6bc23687"
+ID: "5a01a936-fbc5-415d-b258-9b06dc8c0478"
 Parent: "9a91b30f-2bd4-4a01-a21e-8b79b595f974"
 Template: "65c40b53-6ce8-446a-ba5f-2e0bbaba338a"
-Path: /sitecore/content/HeadlessTenant/Hublot/Data/Map/Sitecore
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Map/Satellite
 SharedFields:
+- ID: "6cd26d85-a85a-4171-bc5a-0b458f7af981"
+  Hint: Mode
+  Value: Satellite
 - ID: "da7edba8-5b3c-4489-b725-bd597e61b7b9"
   Hint: CentralPointLatidiute
   Value: 37.792950
@@ -17,14 +20,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240530T102945Z
+      Value: 20240531T081656Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\srinivas.vennamalla@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2ed955ab-94f5-4544-8c33-20f7aed5bb9c"
+      Value: "e2984e6c-7ca7-4afe-ad70-18ae6d302cfb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T130434Z
+      Value: 20240606T101201Z

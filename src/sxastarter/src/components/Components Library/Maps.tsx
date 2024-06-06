@@ -2,7 +2,6 @@ import { ComponentProps } from "lib/component-props";
 import React from "react";
 import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
 
-
 type POI = {
     title: {
         value: string
@@ -54,17 +53,23 @@ interface Fields {
 }
 type MapProps = ComponentProps & {
     fields: Fields;
-};
-  
+};  
   
 export const Default = (props: MapProps): JSX.Element => {
+    const data = props.fields.data.datasource
     const { isLoaded } = useJsApiLoader({
         id: 'google-map-script',
-        //googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY
-        googleMapsApiKey: "AIzaSyB0yaPcysmf-LVdUvoNgF2bkWzHmqgD6jE"
-      })
+        googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY!
+    })
     
-    console.log(props.fields.data.datasource.mode)
+    const center = {
+        lat: parseFloat(data.centralPointLatidiute.value),
+        lng: parseFloat(data.centralPointLongitude.value)
+    }    
+    const zoom = Number(data.zoom.value)    
+    const mode = data.mode.value.toLowerCase() 
+    console.log(data.mode.value.toLowerCase()) 
+    
     return isLoaded ? (
         <div>
             <GoogleMap mapContainerStyle={{
@@ -72,12 +77,9 @@ export const Default = (props: MapProps): JSX.Element => {
                 width: "100%",
                 height: "300px"
                 }}
-                center={{
-                    lat: 37.792950,
-                    lng: -122.398102
-                }}
-                zoom={17}
-                mapTypeId={google.maps.MapTypeId.ROADMAP}>
+                center={center}
+                zoom={zoom}
+                mapTypeId={mode}>
             </GoogleMap>
         </div>
     ): <></>;
