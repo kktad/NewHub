@@ -1,15 +1,15 @@
 ﻿---
-ID: "02d1bc63-741c-4120-8b53-dd0ae08f42b5"
+ID: "83f4ac35-cff5-4e6b-a675-9e59dbbd7f64"
 Parent: "827e91ff-625a-4b85-8458-5c19a2ca6ade"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Maps-CL/Map/Properties/Width"
+Path: "/sitecore/templates/Feature/Components Library/Maps-CL/MapCL/Properties/Height"
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 700
+  Value: 800
 - ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
   Hint: Shared
   Value: 1
@@ -31,7 +31,7 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9338529a-d17b-421b-9989-bb1a903577b7"
+      Value: "5d50f74e-e308-4abb-865d-3b87651db5c5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

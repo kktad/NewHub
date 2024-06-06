@@ -2,7 +2,7 @@
 ID: "65c40b53-6ce8-446a-ba5f-2e0bbaba338a"
 Parent: "cc06e6b1-a48a-4656-9166-8ba3b1177e53"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: "/sitecore/templates/Feature/Components Library/Maps-CL/Map"
+Path: "/sitecore/templates/Feature/Components Library/Maps-CL/MapCL"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

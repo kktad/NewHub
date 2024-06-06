@@ -1,29 +1,33 @@
 ﻿---
-ID: "a42ba2ae-9dbd-4c3b-a684-5b6dbf397cc8"
+ID: "b612603a-535b-4f2d-a309-062d51536309"
 Parent: "827e91ff-625a-4b85-8458-5c19a2ca6ade"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: "/sitecore/templates/Feature/Components Library/Maps-CL/Map/Properties/POI"
+Path: "/sitecore/templates/Feature/Components Library/Maps-CL/MapCL/Properties/TypeToVariantMapping"
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:$site/*[@@name='Data']//*[@@templatename='POIs']|query:$sharedSites/*[@@name='Data']//*[@@templatename='POIs']"
+  Value: "query:$site/*[@@templatename='Presentation']/*[@@templatename='PoiTypes']//*[@@templatename='POI Type']|$sharedSites/*[@@templatename='Presentation']/*[@@templatename='PoiTypes']//*[@@templatename='POI Type']||query:$site/*[@@templatename='Presentation']/*[@@templatename='Variants Grouping']/POI//*[@@templatename='Variant Definition']|$sharedSites/*[@@templatename='Presentation']/*[@@templatename='Variants Grouping']/POI//*[@@templatename='Variant Definition']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Multiroot Treelist
+  Value: Lookup Name Lookup Value List
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 600
+  Value: 900
 - ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
   Hint: Shared
   Value: 1
 Languages:
 - Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: POI type to rendering variant mapping
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240530T094713Z
+      Value: 20240530T094714Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -34,11 +38,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "539aa8d1-0e97-4fcc-81f9-1b10008756e8"
+      Value: "f709e0c1-c878-4b4b-acbe-2c61d4ee629a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240530T094727Z
+      Value: 20240530T095013Z

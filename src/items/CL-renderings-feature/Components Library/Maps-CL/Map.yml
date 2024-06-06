@@ -15,7 +15,7 @@ SharedFields:
   Value: |
     query MapQuery($datasource: String!, $language: String!) {
       datasource: item(path: $datasource, language: $language) {
-        ... on Map {
+        ... on MapCL {
           mode {
             value
           }
@@ -64,7 +64,7 @@ SharedFields:
     
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: "/sitecore/templates/Feature/Components Library/Maps-CL/Map"
+  Value: "/sitecore/templates/Feature/Components Library/Maps-CL/MapCL"
 - ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
   Hint: RenderingCssClass
   Value: map
@@ -129,14 +129,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5c2bd671-a614-42fa-94f1-3bb137d900bb"
+      Value: "c67989ed-8138-421f-a01d-6c4f3959f996"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240530T112856Z
+      Value: 20240606T124156Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
