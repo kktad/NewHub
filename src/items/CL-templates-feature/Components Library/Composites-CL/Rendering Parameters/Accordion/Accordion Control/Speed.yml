@@ -1,18 +1,18 @@
 ﻿---
-ID: "84e99adc-dc8c-44c8-bcf6-e58d2a0a344d"
-Parent: "ad18e950-ad56-4eff-b32b-12e2c6914a5c"
-Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
-Path: "/sitecore/content/HeadlessTenant/Hublot/Presentation/Available Renderings/Composites-CL"
-BranchID: "8faad24d-ae2a-4930-8a3b-be16940f4500"
+ID: "1322ed9b-615d-4bc3-81cc-6b6463e27233"
+Parent: "72679b96-7f0e-4417-9a4f-93bc6008eaff"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: "/sitecore/templates/Feature/Components Library/Composites-CL/Rendering Parameters/Accordion/Accordion Control/Speed"
 SharedFields:
-- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
-  Hint: Renderings
-  Value: |
-    {66C585D2-3695-4A23-B1B9-9D7E0920B8D7}
-    {FFE62225-6524-4193-8684-DB15E50113F6}
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{C7E336CD-45B3-46BD-A1BD-E3F0859A9162}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Integer
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "be351a73-fcb0-4213-93fa-c302d8ab4f51"
+  Hint: Shared
+  Value: 1
 Languages:
 - Language: en
   Versions:
@@ -20,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240603T143828Z
+      Value: 20240610T105200Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +31,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0e149bfc-43dd-47e9-b3e2-7ba52381c059"
+      Value: "a0b8c0cb-6a31-47fb-990c-0ba4b0c9cbaf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\darvi.sunny@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240610T122140Z
+      Value: 20240610T105200Z

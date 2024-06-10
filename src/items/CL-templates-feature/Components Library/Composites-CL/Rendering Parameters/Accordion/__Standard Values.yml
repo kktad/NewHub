@@ -1,0 +1,40 @@
+﻿---
+ID: "defe799a-e9cd-4c2a-813d-8e8d5c89687a"
+Parent: "f27b369a-9992-4d22-9582-db63af7dbb9c"
+Template: "f27b369a-9992-4d22-9582-db63af7dbb9c"
+Path: "/sitecore/templates/Feature/Components Library/Composites-CL/Rendering Parameters/Accordion/__Standard Values"
+SharedFields:
+- ID: "1322ed9b-615d-4bc3-81cc-6b6463e27233"
+  Hint: Speed
+  Value: 500
+- ID: "53fc1f9a-27b2-4d64-8977-f480aed1c047"
+  Hint: CanToggle
+  Value: 1
+- ID: "647be6ab-39f7-4a4f-9abf-39d88e9ba5e1"
+  Hint: CanOpenMultiple
+  Value: 1
+- ID: "a2e123e6-c467-48df-8d2d-6f8e9dfecca9"
+  Hint: EasingFunction
+  Value: Swing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13e33fc7-fb6d-496a-9cf0-6fcd59674c74"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240610T105240Z
