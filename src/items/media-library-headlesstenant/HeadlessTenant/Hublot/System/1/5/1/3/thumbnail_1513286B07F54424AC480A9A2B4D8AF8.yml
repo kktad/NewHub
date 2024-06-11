@@ -1,8 +1,8 @@
 ﻿---
-ID: "64ab037f-fb99-480d-8d91-3e559ba53d04"
-Parent: "3237a357-b84f-406f-9d6a-53df448db0db"
-Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
-Path: /sitecore/content/HeadlessTenant/Hublot/Presentation/Styles/Accordion
+ID: "baccdf81-ec47-46dd-8867-4a5a9aab013f"
+Parent: "07b093cd-4300-49a6-9aba-016837100b3f"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/HeadlessTenant/Hublot/System/1/5/1/3/thumbnail_1513286B07F54424AC480A9A2B4D8AF8
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240610T133741Z
+      Value: 20240611T123847Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\amitkumar.verma@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\amitkumar.verma@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "736cd66d-3988-4b62-b2ff-b10f08771a77"
+      Value: "8f343bb7-d8b7-4489-9f26-c725d45676bf"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\amitkumar.verma@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240610T133741Z
+      Value: 20240611T123847Z
