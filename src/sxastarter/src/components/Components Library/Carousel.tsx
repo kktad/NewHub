@@ -10,7 +10,8 @@ interface Fields {
     settings: {
         timeout: number,
         isPauseEnabled: boolean,
-        transition: string
+        transition: string,
+        navigationType: string
     },
     items: CarouselSlide[]
 }
@@ -20,6 +21,7 @@ type CarouselProps = ComponentProps & {
 export const Default = (props: CarouselProps): JSX.Element => {
     console.log(props)
     console.log(props.fields.items)
+    
     return (
         <div>
             Carousel Component

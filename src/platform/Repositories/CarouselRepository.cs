@@ -47,7 +47,8 @@ namespace ComponentsLibrary.Repositories
             {
                 ["timeout"] = this.Settings.Timeout,
                 ["isPauseEnabled"] = this.Settings.PauseEnabled,
-                ["transition"] = this.Settings.Transition
+                ["transition"] = this.Settings.Transition,
+                ["navigationType"] = this.Settings.NavigationType.ToString(),
             };
         }
 
