@@ -49,7 +49,7 @@ Languages:
     - ID: "4e0fbece-e38e-4e35-be7c-a74d7747a48f"
       Hint: SlideText
       Value: |
-        <h2>"Watch me!"</h2>
+        "Watch me!"
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -64,14 +64,14 @@ Languages:
         <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{A6E4808C-62F8-4E2C-A739-A161772034D9}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "329e6d8e-8542-4467-af03-323fd8460ebe"
+      Value: "b17acae5-30cf-4c8d-ada3-269d9e02fc25"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240604T110146Z
+      Value: 20240612T091717Z
     - ID: "eb5ad577-c566-40c5-b01b-4251bf8a244c"
       Hint: SlideImage
       Value: |

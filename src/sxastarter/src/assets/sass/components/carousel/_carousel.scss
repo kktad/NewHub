@@ -1,0 +1,91 @@
+
+.carousel-container{    
+    max-width: 1170px;
+    margin: 0 auto !important;
+    .field-title{
+        p{
+            border-bottom:1px solid #fe2911;
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: #232323;
+            line-height: normal;
+            padding-bottom: 10px;
+            display: block;
+        }
+    }
+    .arrows-nobullet>div:first-child{
+        .slick-prev{
+            left:45% !important;
+        }
+        .slick-next{
+            right:45% !important;
+        }
+
+    }
+
+}
+
+
+.slick-list{
+    margin-bottom: 40px !important;
+    .slick-slide  {
+        height: 300px !important;
+        img{
+            width: 100%;
+        }
+        .field-slidetext{
+            position: absolute;
+            bottom: 0;
+            h2{
+                margin: 10px;
+                color: #222;
+                font-size: 14px;
+                float: left;
+                text-align: center;
+                width: 100%;
+            }
+        }
+    }
+}
+
+
+.slick-dots{
+    bottom:-30px !important;
+}
+
+.number-slider>div:first-child{
+    .slick-dots{
+        bottom:-30px !important;
+        li{ 
+            &.slick-active{
+                button{
+                    &:before{
+                        content: normal;
+                    }
+                } 
+            }
+            button{
+            color: #232323 !important;
+            font-size: 12px !important;        
+                &:before{
+                    content: normal;
+                }
+            }
+        }
+    }
+}
+
+.slick-prev{
+    left:35% !important;
+    top: 107% !important;  
+    &:before{
+        color: #232323 !important;
+    }  
+}
+.slick-next{
+    right:35% !important;
+    top: 107% !important;    
+    &:before{
+        color: #232323 !important;
+    }    
+}
