@@ -61,7 +61,10 @@ export const Default = (props: MapProps): JSX.Element => {
         id: 'google-map-script',
         googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY!
     })
-    
+    const containerStyles = {
+        width: parseFloat(data.width.value)+'%',
+        height: parseFloat(data.height.value)
+        }
     const center = {
         lat: parseFloat(data.centralPointLatidiute.value),
         lng: parseFloat(data.centralPointLongitude.value)
@@ -72,11 +75,7 @@ export const Default = (props: MapProps): JSX.Element => {
     
     return isLoaded ? (
         <div>
-            <GoogleMap mapContainerStyle={{
-                margin: "auto",
-                width: "100%",
-                height: "300px"
-                }}
+            <GoogleMap mapContainerStyle={containerStyles}
                 center={center}
                 zoom={zoom}
                 mapTypeId={mode}>

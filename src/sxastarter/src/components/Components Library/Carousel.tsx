@@ -38,10 +38,7 @@ export const Default = (props: CarouselProps): JSX.Element => {
     }
 
     var settings = {
-        infinite: true,
-        speed: 700,
         autoplay:true,
-        autoplaySpeed: 2000,
         slidesToShow: 1,
         slidesToScroll: 1,
         dots: customBullet,
