@@ -55,9 +55,9 @@ type GalleryProps = ComponentProps & {
 export const Default = (props: GalleryProps): JSX.Element => {
     console.log(props.fields.data.datasource);
     const imgs=[
-        {id:0,value:"https://styleguide.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/city.jpg"},
-        {id:1,value:"https://styleguide.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/bike.jpg"},
-        {id:2,value:"https://styleguide.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/mountains.jpg"},
+        {id:0,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/city.jpg"},
+        {id:1,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/bike.jpg"},
+        {id:2,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/mountains.jpg"},
       ]
      const videoRep =  props.fields.data.datasource.galleryVideos.results[1].videoID.value
     // console.log(videoRep, "meenal")
