@@ -52,15 +52,14 @@ type GalleryProps = ComponentProps & {
     fields: Fields;
 };
 
-export const Default = (props: GalleryProps): JSX.Element => {
-    console.log(props.fields.data.datasource);
-    const imgs=[
-        {id:0,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/city.jpg"},
-        {id:1,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/bike.jpg"},
-        {id:2,value:"https://styleguides.sitecoredemo.com/styleguide/-/media/Project/Sitecore/Styleguide/Components/Gallery/mountains.jpg"},
-      ]
-     const videoRep =  props.fields.data.datasource.galleryVideos.results[1].videoID.value
-    // console.log(videoRep, "meenal")
+export const Default = (props: GalleryProps): JSX.Element => {    
+    const imgs = props.fields.data.datasource.galleryImages.results
+    .map((data: GalleryImage, index) => ({
+        id: index,
+        value: data.image?.field?.value?.src || '' // Null checks
+    }))
+    .filter(item => item.value !== ''); // Filter out items with empty src value
+
     const [wordData,setWordData]=useState(imgs[0])
     const [val,setVal] = useState(0)
     const handleClick=(index: number)=>{
@@ -85,13 +84,13 @@ export const Default = (props: GalleryProps): JSX.Element => {
         <div className="main">
             <div className ="carousel-image-wrapper">
                 <div className='arrows prev' onClick={handlePrevious}></div>
-                <img className="main-carousel-image" src={wordData.value} height="300" width="500" /> 
+                <img className="main-carousel-image" src={`/` + wordData.value} height="300" width="500" /> 
                 <div className='arrows next' onClick={handleNext}></div>
             </div>
             <div className='flex_row thumbnail-images'>
                 {imgs.map((data,index)=>
                 <div className="thumbnail" key={index} >
-                    <img className={wordData.id==index?"clicked":""} src={data.value} onClick={()=>handleClick(index)} height="70" width="100" />
+                    <img className={wordData.id==index?"clicked":""} src={`/` + data.value} onClick={()=>handleClick(index)} height="70" width="100" />
                     {/* <video  controls autoPlay src={videoRep}/> */}
                 </div>
                 )}

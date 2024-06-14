@@ -21,18 +21,18 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2af601fd-874d-4c0f-a93d-b8254140cf9c"
+      Value: "e714c451-2ba8-4ffa-ac7c-ba32fd6b039f"
     - ID: "a4d0441d-1ebb-4674-b86f-318770a92ad5"
       Hint: ImageTitle
       Value: City
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\meenal.g@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240605T132208Z
+      Value: 20240614T090636Z
     - ID: "f13d3442-babf-4950-a4e2-e5e7eb486e18"
       Hint: Image
       Value: |
-        <image mediaid="{87A74FF0-5E05-4AD6-B0AF-38746179661E}" ></image>
+        <image mediaid="{3B881A88-C056-4189-9B4E-AACB71187F72}" />
