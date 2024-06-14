@@ -4,9 +4,15 @@ Parent: "9a91b30f-2bd4-4a01-a21e-8b79b595f974"
 Template: "65c40b53-6ce8-446a-ba5f-2e0bbaba338a"
 Path: /sitecore/content/HeadlessTenant/Hublot/Data/Map/Terrain
 SharedFields:
+- ID: "02d1bc63-741c-4120-8b53-dd0ae08f42b5"
+  Hint: Width
+  Value: 100
 - ID: "6cd26d85-a85a-4171-bc5a-0b458f7af981"
   Hint: Mode
   Value: Terrain
+- ID: "83f4ac35-cff5-4e6b-a675-9e59dbbd7f64"
+  Hint: Height
+  Value: 300
 - ID: "da7edba8-5b3c-4489-b725-bd597e61b7b9"
   Hint: CentralPointLatidiute
   Value: 37.792950
@@ -31,11 +37,11 @@ Languages:
         sitecore\srinivas.vennamalla@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9c891300-f1be-4eab-8365-897bfd798ab0"
+      Value: "f75f6c6a-ae59-4f16-8d00-d5f8447f3dc1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240606T120723Z
+      Value: 20240614T071508Z
