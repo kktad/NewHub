@@ -43,11 +43,10 @@ type LoginProps = ComponentProps & {
 };
 export const Default = (props: LoginProps): JSX.Element => {
     console.log(props.fields.data.datasource)
-    // const logoutData = props.fields.data.datasource
-    // console.log(logoutData , "meenal")
+    
     const logout = (e: any)=>{
         e.preventDefault();
-        window.location.href ="https://www.sxastarter.localhost/Components/login"
+        window.location.href = props.fields.data.datasource.destinationUrl.field.value.href;
         
     }
     return (

@@ -13,11 +13,15 @@ Languages:
       Value: 20240527T145202Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "124d7513-4a90-4740-90c2-4aa02ff6c106"
+      Value: "c74f1b2f-098d-4856-a479-d827bc666555"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\meenal.g@credera.com
+    - ID: "cfe99f57-36a9-4eca-b5e1-4874c48a576b"
+      Hint: DestinationUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{8485BB0C-F11D-49FB-837E-9E00470BFB40}" />
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240527T145202Z
+      Value: 20240614T065234Z

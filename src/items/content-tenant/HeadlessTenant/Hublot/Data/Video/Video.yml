@@ -17,14 +17,14 @@ Languages:
       Value: 20240530T103536Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8f402862-c938-4229-b2b4-29d38bd8ffa5"
+      Value: "da972752-5614-4622-a8c7-ca626ea39e00"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\meenal.g@credera.com
     - ID: "c7abdb60-3f28-4d17-b457-2056710e384f"
       Hint: YoutubeMovie
-      Value: 
+      Value: "https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240530T113717Z
+      Value: 20240614T065406Z

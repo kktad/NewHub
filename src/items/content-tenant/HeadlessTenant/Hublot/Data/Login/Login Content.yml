@@ -11,13 +11,17 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20240527T145153Z
+    - ID: "2ec05440-c387-46d5-99c8-35e7b281acc2"
+      Hint: DestinationUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2864345A-5F0B-4BCA-8D02-6E090B3407A5}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ca8c2397-6379-41e0-aa05-cd79b8c2b636"
+      Value: "9ac90208-ba51-407d-94d9-bb9924e1a925"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\meenal.g@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240527T145153Z
+      Value: 20240614T065048Z

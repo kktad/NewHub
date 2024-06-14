@@ -63,7 +63,7 @@ export const Default = (props: LoginProps): JSX.Element => {
         if (Firstname.length === 0 || password.length === 0){
             setErros(true);
         }else{
-            window.location.href ="https://www.sxastarter.localhost/Components/logout"
+            window.location.href = props.fields.data.datasource.destinationUrl.field.value.href;
         }
     }
     return (
@@ -76,7 +76,7 @@ export const Default = (props: LoginProps): JSX.Element => {
                     </label>
                     <input className="login--input" type="text" name="name" value={Firstname} onChange={handleSelect}/><br/>
                 </div>
-            {errors && Firstname.length <=0 ?<p className="error-msg">Firstname cannot be empty</p>: ''}
+            {errors && Firstname.length <=0 ?<p className="error-msg">Username cannot be empty</p>: ''}
             </div>
             <div className="wrapper-password">
                 <div className="password">

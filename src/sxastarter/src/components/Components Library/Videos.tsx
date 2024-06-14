@@ -74,7 +74,6 @@ type VideoProps = ComponentProps & {
 };
 export const Default = (props: VideoProps): JSX.Element => {
     console.log(props.fields.data.datasource)
-    props.fields.data.datasource.youtubeMovie.value = "https://s3.amazonaws.com/codecademy-content/courses/React/react_video-fast.mp4"
     return (
         <video 
         controls 
