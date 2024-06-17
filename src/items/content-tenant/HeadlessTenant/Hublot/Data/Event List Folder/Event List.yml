@@ -1,0 +1,26 @@
+﻿---
+ID: "60578336-7747-4d16-8a89-ded479a397dc"
+Parent: "a4146fb0-73f7-44d0-b275-98689892c3f3"
+Template: "a45cd1ca-fec0-4c43-af32-9101d1f8c133"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Event List Folder/Event List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T125355Z
+    - ID: "4ecfb5f0-7af8-4591-8f5d-4e49fb35b902"
+      Hint: Title
+      Value: Events First
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdf2482d-fcb2-4785-b35f-703b60ceb7d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T125410Z

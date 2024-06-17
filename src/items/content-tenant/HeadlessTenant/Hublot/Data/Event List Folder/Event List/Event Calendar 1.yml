@@ -1,0 +1,54 @@
+﻿---
+ID: "6a2a1d1d-6e0f-4528-a701-5a52a1bda5b6"
+Parent: "60578336-7747-4d16-8a89-ded479a397dc"
+Template: "b67cf636-5242-46d3-a9a2-1748f2ed8f26"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Event List Folder/Event List/Event Calendar 1
+SharedFields:
+- ID: "456c0872-328e-49a8-a7f5-f2d48f776cf1"
+  Hint: EventEnd
+  Value: 20240613T143000Z
+- ID: "8d888f0b-9d94-4bc9-8bb5-c37e744378a8"
+  Hint: EventStart
+  Value: 20240613T125400Z
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240613T125422Z
+    - ID: "270b3e77-8600-4779-8627-9cda286fbfb5"
+      Hint: EventPlace
+      Value: Event Calendar Item Place
+    - ID: "3f0873d7-4f34-4434-bd48-129bc8d68748"
+      Hint: EndLabel
+      Value: to
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "68a37eeb-55f3-4baf-b1c9-30d8b36bdd94"
+      Hint: EventLink
+      Value: |
+        <link linktype="external" url="https://www.google.com" />
+    - ID: "8cc00462-a6e7-4ae6-ad51-90f3a3d1a51f"
+      Hint: EventName
+      Value: Event Calendar 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94e4523d-824c-497c-8418-1319bf65e977"
+    - ID: "bab74f14-887f-43e2-93a9-dab0d0bb4079"
+      Hint: StartLabel
+      Value: from
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T125507Z

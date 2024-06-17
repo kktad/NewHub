@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{1D587786-1CAB-4097-B8FA-84B14E31A532}" />
+    <image mediaid="{919A5C33-64C4-4133-B96F-A0E1E351FFB1}" />
 Languages:
 - Language: en
   Versions:
@@ -48,11 +48,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a0008227-d8c3-4219-99ba-479652f72dc2"
+      Value: "dcf03e95-5042-457d-ae17-2d80c3dc0798"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\darvi.sunny@tadigital.com
+        sitecore\Anonymous
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T143330Z
+      Value: 20240617T100009Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "b3139b9c-9bac-4da4-bda8-d948746a0a40"
+Parent: "04186ea6-4ca1-4268-9798-22b94037f2c7"
+Template: "04186ea6-4ca1-4268-9798-22b94037f2c7"
+Path: "/sitecore/templates/Feature/Components Library/Events-CL/Event List Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A45CD1CA-FEC0-4C43-AF32-9101D1F8C133}
+    {04186EA6-4CA1-4268-9798-22B94037F2C7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe1c6e37-878b-487a-81d4-9c0af2c4cfe9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240613T101211Z

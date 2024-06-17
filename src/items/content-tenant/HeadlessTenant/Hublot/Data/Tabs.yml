@@ -1,15 +1,12 @@
 ﻿---
-ID: "eb5f6bf9-1068-4a7b-ba55-bfd827513936"
-Parent: "59b41b5f-e22e-460b-941e-fb64fe8da8fc"
-Template: "a6868d65-d612-401f-a40a-cd5ba0857b81"
-Path: /sitecore/system/Settings/Services/API Keys/xmcloudpreview
+ID: "0d3d258f-df2d-437a-9ab4-2a4af88dbee7"
+Parent: "a930bda5-05e0-4de2-9330-51f12c0bfd1b"
+Template: "57778ab3-e67d-4b8e-8037-409dde2ab8bb"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Tabs
 SharedFields:
-- ID: "780c8e48-fe03-4a73-90dc-9bb5296b95d7"
-  Hint: CORS Origins
-  Value: *
-- ID: "99ba91ec-f0d3-4372-b638-67c2402a2484"
-  Hint: AllowedControllers
-  Value: *
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2200
 Languages:
 - Language: en
   Versions:
@@ -17,22 +14,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200526T202811Z
+      Value: 20240613T100600Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\Admin
+        sitecore\amitkumar.verma@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\amitkumar.verma@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2fb0590b-ba95-44c3-a2a7-de01c419d575"
+      Value: "972831f9-3aa9-4842-953c-6b684e472b47"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\amitkumar.verma@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20200526T202815Z
+      Value: 20240613T124515Z
