@@ -1,0 +1,33 @@
+﻿---
+ID: "61da3f5e-3285-4b7f-9afb-56e5d1a1b391"
+Parent: "88d461a5-7948-4abf-b38b-4f27b8ebb1b7"
+Template: "88d461a5-7948-4abf-b38b-4f27b8ebb1b7"
+Path: "/sitecore/templates/Feature/Components Library/Compliancy-CL/Privacy Warning Folder/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {F526D290-9FF3-459C-8C6F-84DA49A05438}
+    {88D461A5-7948-4ABF-B38B-4F27B8EBB1B7}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1bd9899f-2612-41f1-8794-23f83b4a9775"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T091313Z

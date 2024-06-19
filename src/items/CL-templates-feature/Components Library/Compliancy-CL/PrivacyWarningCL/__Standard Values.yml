@@ -1,0 +1,46 @@
+﻿---
+ID: "3dd2b2d4-48eb-4bd0-a5af-1241968c0f9d"
+Parent: "f526d290-9ff3-459c-8c6f-84da49a05438"
+Template: "f526d290-9ff3-459c-8c6f-84da49a05438"
+Path: "/sitecore/templates/Feature/Components Library/Compliancy-CL/PrivacyWarningCL/__Standard Values"
+SharedFields:
+- ID: "270e0058-f96b-41fb-b704-1935bee36ed4"
+  Hint: PrivacyWarningType
+  Value: "{2387430F-6AAB-4C11-81DE-BCB6A68ADDA3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T091925Z
+    - ID: "2753a088-876f-4a5a-b686-9403c6cc45b9"
+      Hint: PrivacyWarningContent
+      Value: |
+        Cookies help us improve your website experience.&lt;br /&gt;<br />
+        By using our website, you agree to our use of cookies.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13ff75e3-3a90-4297-8aef-6938a2cab576"
+    - ID: "aed8eb41-bb94-41b7-a068-5f86b49966f1"
+      Hint: PrivacyWarningButtonText
+      Value: Confirm
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\darvi.sunny@tadigital.com
+    - ID: "cd7585e5-5a8b-4ae2-9e70-2b4fa15fa4b7"
+      Hint: LearnMoreText
+      Value: Learn More
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T092001Z
