@@ -1,0 +1,31 @@
+﻿---
+ID: "06249f09-b854-4b6d-80a0-5f1b4de7bf0c"
+Parent: "994fcb17-95a2-41ef-a0a2-2b1a9726fefa"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/HeadlessTenant/Hublot/System/4/2/A/5/thumbnail_42A51BF5363541CFB1B0A56B9EA325A6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240619T111717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8bc613f7-88e1-4f8c-b46e-fea523906747"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240619T111717Z

@@ -25,6 +25,9 @@ SharedFields:
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
   Value: "{BC17C7F3-22F2-4A54-83E9-FCC0CCB6F2E5}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{A336E4E8-2930-4FF0-BBB4-306140DBD78F}"
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
   Value: "query:$site/*[@@name='Data']/*[@@templatename='Event Calendar Folder']|query:$sharedSites/*[@@name='Data']/*[@@templatename='Event Calendar Folder']"
@@ -77,14 +80,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f50aec83-521c-47ae-ac1f-cf549742286c"
+      Value: "87e3be4b-09f8-4475-8fb8-8719578e752b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\amitkumar.verma@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240613T124157Z
+      Value: 20240619T112315Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"

@@ -1,0 +1,38 @@
+﻿---
+ID: "a336e4e8-2930-4ff0-bbb4-306140dbd78f"
+Parent: "fdf7004d-b071-4a88-9130-bba0959097b7"
+Template: "814c1dbb-b118-4511-ba2b-7288ed3d490b"
+Path: /sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/Components Library/EventCalendarRenderingContentsResolver
+SharedFields:
+- ID: "23b859e1-34f9-4711-a46a-dc0d616584ce"
+  Hint: ItemSelectorQuery
+  Value: ./*
+- ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
+  Hint: Type
+  Value: ComponentsLibrary.ContentResolvers.EventCalendarRenderingContentsResolver, ComponentsLibrary
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240618T105215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "335b4c08-e4a8-4d77-bd33-cc935459205a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240618T105308Z
