@@ -24,7 +24,22 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
+              uid="{0BC304A0-9FF8-4BD8-9858-AABD4DD178C4}"
+              p:before="*"
+              s:ds="local:/Data/Text 1"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B7B46565F-6126-4AA0-A666-35DCF3835D2C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main" />
+            <r
+              uid="{89C56DF8-A858-4720-B443-5EDC6D72019B}"
+              p:after="r[@uid='{0BC304A0-9FF8-4BD8-9858-AABD4DD178C4}']"
+              s:ds="local:/Data/Text 2"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B7B46565F-6126-4AA0-A666-35DCF3835D2C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
               uid="{99FB62D0-D94E-4415-BCE1-A97686F99DF1}"
+              p:after="*[1=2]"
               s:ds=""
               s:id="{C5BEEB67-C878-4BD6-9D1F-5835AB7E983F}"
               s:par="CalendarType=%7B57873DCE-290B-4FCE-B1CE-2636A1E5BB18%7D%7C%7BED57FE3E-85F3-433B-93D5-A6D75277BEC1%7D%7C%7B9DCCDFCF-B112-4749-BE88-734E7E2C1D60%7D%7C%7B00F11EEC-4A09-4160-B764-D2F5AF29722C%7D&amp;ShowPreviousNext=1&amp;ShowMonthCaptions&amp;CompactView=1&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;TitleHeadingLevel=Heading%206&amp;CSSStyles&amp;DynamicPlaceholderId=1"
@@ -47,14 +62,14 @@ Languages:
         sitecore\amitkumar.verma@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cb6ee41a-684f-42e9-9960-81ef015e27bf"
+      Value: "f975c31a-ec9b-41b7-a120-0888781c6717"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\meenal.g@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240619T111842Z
+      Value: 20240620T124016Z
     - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
       Hint: Title
       Value: Event Calendar
