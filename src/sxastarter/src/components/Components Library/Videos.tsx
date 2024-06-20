@@ -74,10 +74,32 @@ type VideoProps = ComponentProps & {
 };
 export const Default = (props: VideoProps): JSX.Element => {
     console.log(props.fields.data.datasource)
-    return (
-        <video 
-        controls 
-        autoPlay
-        src={props.fields.data.datasource.youtubeMovie.value}  />
-                );
+    const { youtubeMovie, mP4Movie, oggMovie, webMMovie } = props.fields.data.datasource;
+
+    // Check if youtubeMovie is provided
+    if (youtubeMovie && youtubeMovie.value) {
+        return (
+            <video 
+                controls 
+                autoPlay
+                src={youtubeMovie.value}  
+            />
+        );
+    } else {
+        // Render video element with other formats
+        return (
+            <video 
+                controls 
+                autoPlay
+            >
+                {/* Provide multiple sources for different formats */}
+                {mP4Movie && <source src={mP4Movie.field.value.href} type="video/mp4" />}
+                {oggMovie && <source src={oggMovie.field.value.href} type="video/ogg" />}
+                {webMMovie && <source src={webMMovie.field.value.href} type="video/webm" />}
+
+                {/* Fallback content for unsupported browsers */}
+                Your browser does not support the video tag.
+            </video>
+        );
+    }
 }

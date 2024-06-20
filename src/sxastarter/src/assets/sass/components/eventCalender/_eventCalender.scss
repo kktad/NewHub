@@ -1,0 +1,29 @@
+.calender-compo{
+    max-width: 1002px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+    .example-calender{
+        font-size: 1.5em;
+    }
+}
+.event-calender{
+    color: #232323;
+    font-size: 24px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto;
+    border-bottom: 1px solid red;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    margin: 0 auto !important;
+}
+.calender-content{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto !important;
+    margin-bottom: 40px !important;
+    
+}
