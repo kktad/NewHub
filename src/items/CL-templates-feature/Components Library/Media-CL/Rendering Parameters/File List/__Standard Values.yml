@@ -1,0 +1,27 @@
+﻿---
+ID: "59e06afb-3e2b-4a67-ab53-1aae00dd417b"
+Parent: "ea450317-b6c4-4749-9bdf-12bdffaf2205"
+Template: "ea450317-b6c4-4749-9bdf-12bdffaf2205"
+Path: "/sitecore/templates/Feature/Components Library/Media-CL/Rendering Parameters/File List/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211012T120926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5d7f0d5-54b6-4acb-9a01-6a9566ae4aa5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T092704Z

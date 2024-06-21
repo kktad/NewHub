@@ -1,0 +1,45 @@
+﻿---
+ID: "99fb055c-36c1-4229-bff4-f17760357488"
+Parent: "75436d47-592d-43c4-82ed-b98ac1c096e1"
+Template: "11b9d90e-e86d-48aa-9872-5c2afa97ea27"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/File List/Example/Example file 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240621T102738Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "6b859f90-54a3-4510-b40e-3a901487ec46"
+      Hint: Description
+      Value: This is file example 2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e1c2b19-3363-452b-a6a7-9667c3611ffa"
+    - ID: "ae3d0128-a3f6-48f5-a799-81945346709f"
+      Hint: File
+      Value: |
+        <file mediapath="" mediaid="{26C41FCC-963D-4CF5-BE8A-12AC1957B0D5}" src="-/media/26C41FCC963D4CF5BE8A12AC1957B0D5.ashx" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d8e4f440-7cf8-424a-84af-94d4e44289d6"
+      Hint: LinkText
+      Value: Download
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240621T115237Z
+    - ID: "e78c20ac-df4f-49bd-9803-3c814757d0ae"
+      Hint: CustomImage
+      Value: |
+        <image mediaid="{26C41FCC-963D-4CF5-BE8A-12AC1957B0D5}" />
