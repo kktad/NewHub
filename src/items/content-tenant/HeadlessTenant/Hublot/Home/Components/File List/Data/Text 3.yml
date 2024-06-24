@@ -1,0 +1,50 @@
+﻿---
+ID: "3b123b1f-ebe6-4d8b-b561-6f7f602caeb1"
+Parent: "aff2e140-a506-4766-b7ae-9f1c873c06f0"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/File List/Data/Text 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240624T103409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\meenal.g@credera.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\meenal.g@credera.com
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div class="sub-text">
+        <p>Showing Files</p>
+        <p>
+        <p style="color: #232323; background-color: #ffffff; margin: 5px 0px; padding: 0px; border: 0px;">Here we can see a simple download list containing:</p>
+        <ul style="color: #232323; background-color: #ffffff; margin: 0px 0px 0px 10px; padding: 5px 0px; border: 0px; list-style-type: none; list-style-image: initial;"></ul>
+            </p>
+            <ul>
+                <li> file type icon</li>
+                <li>file name</li>
+                <li>download link</li>
+                <li>Last update date</li>
+            </ul>
+            </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aef17334-008f-4d87-a96d-c004cc1660e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\meenal.g@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240624T120706Z
