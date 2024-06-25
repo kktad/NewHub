@@ -1,0 +1,23 @@
+﻿---
+ID: "6225f6f7-6140-4967-89f3-424e30d4542f"
+Parent: "15124c18-1553-4e6c-ab06-02b8a7dddc3a"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: "/sitecore/templates/Branches/Feature/Components Library/Taxonomy-CL/Default TagList Variant/$name"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T135004Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28da2e1b-dbf5-4cd1-961d-2b59b9c6c6ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\debasis.mishra@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240625T155721Z

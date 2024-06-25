@@ -1,24 +1,28 @@
 ﻿---
-ID: "0fd4074f-0da0-445e-b85c-9edf223006fd"
-Parent: "ad18e950-ad56-4eff-b32b-12e2c6914a5c"
-Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
-Path: "/sitecore/content/HeadlessTenant/Hublot/Presentation/Available Renderings/Taxonomy-CL"
-BranchID: "966cfd9e-dce3-4123-986b-66f869e00d3e"
+ID: "b902e19f-32f5-4a66-937b-e4c25cf7ba7c"
+Parent: "653504a4-f971-413f-a182-343a173e1bad"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/HeadlessTenant/Hublot/Presentation/Headless Variants/TagList
+BranchID: "15124c18-1553-4e6c-ab06-02b8a7dddc3a"
 SharedFields:
-- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
-  Hint: Renderings
-  Value: "{49AF5638-79F4-4D27-8592-FC023FD0D136}"
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/scroll.png
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
-  Value: "{726DD964-FB0F-423C-AA7E-D98BFD7262D2}"
+  Value: "{6225F6F7-6140-4967-89F3-424E30D4542F}"
 Languages:
 - Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240624T130738Z
+      Value: 20240625T160022Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -29,11 +33,11 @@ Languages:
         sitecore\debasis.mishra@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d2eba8eb-6515-4496-b595-952c5e177aa1"
+      Value: "9e553304-0dfd-4bd0-960e-ce90656df373"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\debasis.mishra@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240625T160055Z
+      Value: 20240625T185129Z

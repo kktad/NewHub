@@ -32,6 +32,7 @@ SharedFields:
     {634F7C64-5A21-4E03-824D-FA8BE47A7C60}
     {248AC988-5A71-4EF6-B21E-9715753A546E}
     {1332E1CF-11E9-42D4-97EA-A6DACB747337}
+    {18D4E53F-C507-4B5C-AE11-87FFFA968D77}
 - ID: "2b2fe9fd-78a6-40eb-b9f9-28409d8d3700"
   Hint: SitemapMediaItems
   Value: "{ED6D55EA-EB90-42DF-ACED-078A45102D90}"
@@ -59,11 +60,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "02016e87-be73-4605-b47f-a2bb81786396"
+      Value: "5e10b9c6-7dc0-48ca-bd5b-fb37befd87d9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\debasis.mishra@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240621T094247Z
+      Value: 20240625T160022Z

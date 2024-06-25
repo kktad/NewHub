@@ -3,6 +3,10 @@ ID: "18d4e53f-c507-4b5c-ae11-87fffa968d77"
 Parent: "0015f261-b958-4b38-92c2-5a62ccc179f5"
 Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
 Path: "/sitecore/system/Settings/Feature/Components Library/Taxonomy-CL/Taxonomy-CL Headless Site Setup"
+SharedFields:
+- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
+  Hint: Dependencies
+  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
 Languages:
 - Language: en
   Versions:
@@ -21,7 +25,7 @@ Languages:
         sitecore\debasis.mishra@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "70dea134-bc67-4662-92ed-c7645acd7543"
+      Value: "0bf6d196-d03f-4903-8404-5f5d53e2d795"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -31,4 +35,4 @@ Languages:
       Value: "Taxonomy-CL"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240625T155340Z
+      Value: 20240625T155720Z
