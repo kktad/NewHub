@@ -1,0 +1,90 @@
+.custom-indent-bottom {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background: #f7f7f7;
+    padding: 20px;
+    .react-tabs__tab-list{
+        border-top: 1px solid #fe2911 !important;
+        border-bottom: 0 !important;
+        width: 1170px;
+        margin: 0 auto;
+    }
+    .react-tabs__tab--selected{
+        border-radius: 0 0 5px 5px;
+    }
+    .react-tabs__tab{
+        border-top: none;
+    }
+}
+.custom-indent-left{
+    display: flex;
+    margin-top: 50px;
+    .react-tabs__tab-list{
+        border-bottom: 0 !important;
+        border-right: 1px solid red;
+    }
+}
+.custom-indent-right{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+    .react-tabs__tab-list{
+        border-bottom: 0 !important;
+        border-left: 1px solid red;
+    }
+}
+
+.react-tabs__tab-list{
+    border-bottom: 1px solid #fe2911 !important;
+}
+.tab-content{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto !important;
+    margin-bottom: 50px !important;
+    padding: 20px;
+}
+.tab-head{
+    color: #232323;
+    font-size: 24px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    border-bottom: 1px solid red;
+    padding: 12px;
+    max-width: 1170px;
+    margin: 0 auto !important;
+}
+.tab-column-content{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif;
+    max-width: 1170px;
+    margin: 0 auto !important;
+    margin-bottom: 40px !important;
+}
+.tab-column, .vertical-tab{
+    font-size: 1.5em;
+    width: 60%;
+    border-top: 3px solid red;
+    padding-top: 20px;
+}
+.vertical-tab-head{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif; 
+}
+.last-tab{
+    font-weight: 400;
+    font-size: 16px;
+    font-family: "Open Sans", Helvetica, Verdana, Tahoma, sans-serif; 
+    border-top: 3px solid red;
+    margin-top: 50px !important;
+}
+.react-tabs__tab--selected{
+    background: #e0dada !important;
+    border-radius: 0 !important;
+}

@@ -52,6 +52,7 @@
     "react-modal-image": "^2.6.0",
     "react-player": "^2.16.0",
     "react-slick": "^0.30.2",
+    "react-tabs": "^6.0.2",
     "sass": "^1.52.3",
     "sass-alias": "^1.0.5",
     "slick-carousel": "^1.8.1",

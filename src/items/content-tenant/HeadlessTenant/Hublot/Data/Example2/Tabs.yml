@@ -21,18 +21,17 @@ Languages:
         sitecore\amitkumar.verma@credera.com
     - ID: "6a73e86b-eb6c-478e-b11f-766dd85ca5ed"
       Hint: Heading
-      Value: |
-        <p><em class="fa fa-folder-o"></em> <strong>Tabs</strong></p>
+      Value: Tabs
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e301fbbb-ef2c-4aa8-bc8c-85cc1b54119a"
+      Value: "edd4eb49-0d06-4425-9604-2a58e79c1d39"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\meenal.g@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240611T081141Z
+      Value: 20240625T083624Z
     - ID: "dc5cc50d-38b6-40e7-955e-a19d50a2c4a2"
       Hint: Content
       Value: Integer luctus ante eu metus posuere, quis tincidunt tellus malesuada. Vestibulum pulvinar nisi metus, a congue turpis tempus sed. Vestibulum sagittis odio tortor. Pellentesque gravida lacus at lorem tristique suscipit. Nullam congue lorem lectus, ac euismod nisi maximus in. Aenean lectus lorem, pretium eget leo nec, commodo condimentum est. Integer sed ligula quam. Proin ut aliquam justo. Curabitur mollis porttitor nisl, fringilla rhoncus nunc pellentesque vel. Mauris posuere tortor ac mauris blandit.
