@@ -21,18 +21,17 @@ Languages:
         sitecore\amitkumar.verma@credera.com
     - ID: "6a73e86b-eb6c-478e-b11f-766dd85ca5ed"
       Hint: Heading
-      Value: |
-        <p><em class="fa fa-thumbs-o-up"></em> <strong>Awesome</strong></p>
+      Value: Awesome
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3ae193c4-5455-4c50-bb83-af3f52fddcd1"
+      Value: "dce6753d-349f-4a06-913b-41ca38432c10"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\meenal.g@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240611T081324Z
+      Value: 20240626T113111Z
     - ID: "dc5cc50d-38b6-40e7-955e-a19d50a2c4a2"
       Hint: Content
       Value: Sed tempus lorem ac enim tincidunt maximus. Mauris auctor lectus quis erat tristique tincidunt at a libero. Vivamus sit amet enim elementum, congue tellus at, hendrerit ipsum. Nam ornare porta elit vel ultrices. Donec justo magna, euismod vel felis sed, tincidunt lobortis dui. Praesent efficitur euismod nulla in scelerisque. Sed ante quam, sagittis nec faucibus at, commodo nec velit. Integer vitae lorem vel mi maximus semper. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis congue vel velit.
