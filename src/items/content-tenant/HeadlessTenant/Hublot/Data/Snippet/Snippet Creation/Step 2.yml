@@ -1,0 +1,41 @@
+﻿---
+ID: "a4292c83-7f97-4bc9-a22a-c3a293e04caf"
+Parent: "ce896362-3615-4126-8814-816584896768"
+Template: "5da99efd-2b35-4dd3-8d93-53f6b5d93118"
+Path: /sitecore/content/HeadlessTenant/Hublot/Data/Snippet/Snippet Creation/Step 2
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240703T125135Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "5bd1a3b0-cf9c-49d0-a37c-10e5492e05cd"
+      Hint: PromoText
+      Value: <p>Step 2</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb2bd9c4-d121-4ab1-8c7f-bb657798c2b2"
+    - ID: "9c0773bc-1a1c-4622-acee-a16a8d205e06"
+      Hint: PromoText2
+      Value: <p>Position the Snippet rendering above the desired placeholder, and when the placeholder lights up, drop the rendering on the page.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\amitkumar.verma@credera.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240703T131135Z
