@@ -1,18 +1,24 @@
 ﻿---
-ID: "49af5638-79f4-4d27-8592-fc023fd0d136"
-Parent: "d465e9dd-4faf-4d8f-b803-481c227bcb4f"
+ID: "085bea9f-a0d3-40c9-83a1-080412e9acac"
+Parent: "18809b7e-a87c-4569-b889-58070ee9e0f5"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: "/sitecore/layout/Renderings/Feature/Components Library/Taxonomy-CL/TagList"
+Path: "/sitecore/layout/Renderings/Feature/Components Library/Media-CL/FavIcon"
 SharedFields:
+- ID: "003a72cd-4cd6-4392-9862-41d4159929cd"
+  Hint: Data source
+  Value: "/sitecore/content/HeadlessTenant/Hublot/Data/Images/fav-icon"
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: TagList
+  Value: FavIcon
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "SXA/16x16/tag-list.png"
+  Value: /~/icon/applications/32x32/bookmark.png
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Feature/JSS Experience Accelerator/Media/Image
 - ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
   Hint: RenderingCssClass
-  Value: "tag-list"
+  Value: "fav-icon"
 - ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
   Hint: Open Properties after Add
   Value: 0
@@ -21,13 +27,16 @@ SharedFields:
   Value: 
 - ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
   Hint: Page Editor Buttons
-  Value: "{2909D5F9-B95E-490A-8030-3974108A8618}"
+  Value: 
 - ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
   Hint: Parameters Template
-  Value: "{FF9CC889-AC33-461A-83CB-681E281F5925}"
+  Value: "{599AD038-0DD5-4FAD-8EEF-54DCF74CB9FF}"
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
-  Value: "{54EE7CB1-64AA-48C1-A030-97B176168B8E}"
+  Value: 
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: /sitecore/content/HeadlessTenant/Hublot/Data/Images
 - ID: "c39a90ce-0035-41bb-90f6-3c8a6ea87797"
   Hint: AddFieldEditorButton
   Value: 
@@ -81,14 +90,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "511bf9f7-1cff-44ec-b118-2bee25e57d6d"
+      Value: "1feaa98e-197f-42e5-afc8-3d09c9b9a8c7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\debasis.mishra@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240705T112506Z
+      Value: 20240708T075620Z
 - Language: "ja-JP"
   Fields:
   - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
