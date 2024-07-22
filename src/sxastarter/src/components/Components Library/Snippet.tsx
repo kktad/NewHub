@@ -1,43 +1,23 @@
-import { ComponentProps } from "lib/component-props";
+import React from 'react';
+import {
+  ComponentParams,
+  ComponentRendering,
+  Placeholder,
+  
+} from '@sitecore-jss/sitecore-jss-nextjs';
 
-type SnippetItems = {
-    heading:{
-        value:string
-    },
-    image: {
-        field: {
-          value: {
-            src: string
-            alt:string
-          }
-        }
-    },
-    description:{
-        value:string
-    }    
+interface ComponentProps {
+  rendering: ComponentRendering & { params: ComponentParams };
+  params: ComponentParams;
 }
 
-interface Fields {
-    data: {
-        datasource: {
-            mainHeading: string,
-            children: {
-                results: SnippetItems[]
-            },            
-        }
-    }
-}
-type TabsProps = ComponentProps & {
-    fields: Fields;
-};
+export const Default = (props: ComponentProps): JSX.Element => {
+  const phKey = `snippet-1-${props.params.DynamicPlaceholderId}`;
+  return (
+    <div className='snippet-wrapper component container-default'>
+      <div className="component-content">     
+        <Placeholder name={phKey} rendering={props.rendering}/>  
+      </div>         
+    </div>
 
-export const Default = (props: TabsProps): JSX.Element => {
-    console.log('main heading',props.fields.data.datasource.mainHeading);
-
-    console.log('childrens',props.fields.data.datasource.children.results);
-    return (
-        <div>
-            Snippet Component
-        </div>
-    );
-}
+)};
