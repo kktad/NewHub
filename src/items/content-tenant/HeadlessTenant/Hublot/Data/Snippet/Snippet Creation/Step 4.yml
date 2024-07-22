@@ -19,23 +19,13 @@ Languages:
       Hint: __Owner
       Value: |
         sitecore\amitkumar.verma@credera.com
-    - ID: "5bd1a3b0-cf9c-49d0-a37c-10e5492e05cd"
-      Hint: PromoText
-      Value: <p>Step 4</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\amitkumar.verma@credera.com
-    - ID: "8beec054-0ee6-4b19-9419-010621e33c72"
-      Hint: PromoIcon
-      Value: |
-        <image mediaid="{88124DC9-F22E-4309-97B2-6606FFEC73FF}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "d1be6866-d118-4620-9384-6dcf1fa79248"
-    - ID: "9c0773bc-1a1c-4622-acee-a16a8d205e06"
-      Hint: PromoText2
-      Value: <p>Now you can start adding renderings to the empty placeholders.</p>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

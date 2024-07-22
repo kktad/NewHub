@@ -4,10 +4,13 @@ Parent: "15bba5e8-f31a-499a-98de-56dc91b67bb6"
 Template: "208fd3db-08b3-4bca-a8ad-77e84de60050"
 Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Snippet
 SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: 
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{A1D1A3F8-EF98-4678-BDCB-74FA14B88AE8}" />
+    <image mediaid="{5928281D-9B55-440D-B42B-F3B7DB62DD2E}" />
 Languages:
 - Language: en
   Versions:
@@ -24,10 +27,83 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{163D5D73-8EB5-4179-87D9-84BF3C257654}"
+              uid="{7FEF873D-8D5A-47E8-BADB-22DD43A5957C}"
+              p:before="*"
+              s:ds="{FE65BFB2-0ECC-4448-9A3B-2D5F3E08DF92}"
+              s:id="{FFE62225-6524-4193-8684-DB15E50113F6}"
+              s:par="EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple=1&amp;CanToggle=1&amp;ExpandedByDefault&amp;ExpandOnHover&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD83969A7-F776-4AB7-A343-31E60074AE26%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/container-9/snippet-1-10/row-1-11" />
+            <r
+              uid="{33B05724-8E1F-4B97-B6C2-32EB484943E2}"
+              p:after="r[@uid='{7FEF873D-8D5A-47E8-BADB-22DD43A5957C}']"
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/container-9/snippet-1-10" />
+            <r
+              uid="{0194BE6B-3259-4736-866A-6FE3A3A0AC23}"
+              p:after="r[@uid='{33B05724-8E1F-4B97-B6C2-32EB484943E2}']"
+              s:ds="{7EBE55AF-896E-4E4F-9414-9627E74E38AE}"
+              s:id="{38800527-6862-4FBD-8EA4-2CD7A19080FC}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE9729DF6-E958-4059-AA29-90A644CEBAA6%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-9" />
+            <r
+              uid="{3F357F9D-BA03-4502-8010-5784B63D5BE8}"
+              p:after="r[@uid='{0194BE6B-3259-4736-866A-6FE3A3A0AC23}']"
+              s:ds="local:/Data/snippetpromotest"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B0248AE17-C8D5-4D64-BA6C-88FB32B52E7D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-3/column-2-6" />
+            <r
+              uid="{6BE71597-37B0-4126-92A5-F1D2556EEF82}"
+              p:after="r[@uid='{3F357F9D-BA03-4502-8010-5784B63D5BE8}']"
+              s:ds="local:/Data/promodata"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B0248AE17-C8D5-4D64-BA6C-88FB32B52E7D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-3/column-1-6" />
+            <r
+              uid="{3268827E-6704-49C2-9E52-FF9C3A222069}"
+              p:after="r[@uid='{6BE71597-37B0-4126-92A5-F1D2556EEF82}']"
+              s:ds="{DD4542EA-A9D8-41E5-BE98-BF36995CF3B9}"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B06253956-2ECA-4A94-8214-9773F33333FD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-3/snippet-1-4" />
+            <r
+              uid="{5D7818AA-2785-4DD0-AE60-75A906D5D6F0}"
+              p:after="r[@uid='{3268827E-6704-49C2-9E52-FF9C3A222069}']"
+              s:ds="{7EBE55AF-896E-4E4F-9414-9627E74E38AE}"
+              s:id="{38800527-6862-4FBD-8EA4-2CD7A19080FC}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE9729DF6-E958-4059-AA29-90A644CEBAA6%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-3" />
+            <r
+              uid="{F3E836F7-DD52-4B51-85AF-8651EAB673FF}"
+              p:after="r[@uid='{5D7818AA-2785-4DD0-AE60-75A906D5D6F0}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth2=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-3" />
+            <r
+              uid="{A32505A2-28CE-4ADC-86CD-8B7C9DF6D413}"
+              p:after="r[@uid='{F3E836F7-DD52-4B51-85AF-8651EAB673FF}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B06253956-2ECA-4A94-8214-9773F33333FD%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/snippet-1-1" />
+            <r
+              uid="{D6F1869F-7DB7-49DA-921E-FFBB738B1ED0}"
+              p:after="r[@uid='{A32505A2-28CE-4ADC-86CD-8B7C9DF6D413}']"
               s:ds="{CE896362-3615-4126-8814-816584896768}"
               s:id="{38800527-6862-4FBD-8EA4-2CD7A19080FC}"
-              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE9729DF6-E958-4059-AA29-90A644CEBAA6%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BE9729DF6-E958-4059-AA29-90A644CEBAA6%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{04E095A9-1BD6-440B-ACB4-705AB050A4E5}"
+              p:after="r[@uid='{D6F1869F-7DB7-49DA-921E-FFBB738B1ED0}']"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main" />
+            <r
+              uid="{0E6DBF9F-A516-4D7A-B057-DD663B1551A1}"
+              p:after="*[1=2]"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
               s:ph="headless-main" />
           </d>
         </r>
@@ -47,14 +123,14 @@ Languages:
         sitecore\amitkumar.verma@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1d649a6a-d461-4fca-936f-8c16bb5b9b67"
+      Value: "63449763-69cf-4720-b84a-17dd88e80be3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\yasmeen.md@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240703T134551Z
+      Value: 20240722T093551Z
     - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
       Hint: Title
-      Value: Snippet
+      Value: Snippet test 2 data

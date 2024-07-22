@@ -19,9 +19,6 @@ Languages:
       Hint: __Owner
       Value: |
         sitecore\amitkumar.verma@credera.com
-    - ID: "5bd1a3b0-cf9c-49d0-a37c-10e5492e05cd"
-      Hint: PromoText
-      Value: <p>Step 1</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -29,9 +26,6 @@ Languages:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
       Value: "6d90f8ea-f4f9-4e3c-a057-4613bdaed25a"
-    - ID: "9c0773bc-1a1c-4622-acee-a16a8d205e06"
-      Hint: PromoText2
-      Value: <p>Open the Toolbox and, in the <strong>Composites</strong> section, click the <strong>Snippet</strong> rendering and drag it to the page. When you click and start dragging a rendering, the placeholders where you can drop the rendering light up.</p>
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |

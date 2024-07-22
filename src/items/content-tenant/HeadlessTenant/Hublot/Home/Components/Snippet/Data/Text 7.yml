@@ -1,8 +1,8 @@
 ﻿---
-ID: "da0128db-9b1e-45b6-b059-378d69d6a64b"
-Parent: "5da99efd-2b35-4dd3-8d93-53f6b5d93118"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: "/sitecore/templates/Feature/Components Library/Composites-CL/SnippetCL/Promo"
+ID: "7f19f83a-09b4-480e-b141-039076259f23"
+Parent: "0ea736b1-b845-4b80-bb80-22158b3f7869"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/HeadlessTenant/Hublot/Home/Components/Snippet/Data/Text 7
 Languages:
 - Language: en
   Versions:
@@ -10,22 +10,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240703T124926Z
+      Value: 20240722T073049Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\yasmeen.md@credera.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\yasmeen.md@credera.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f97180de-4b4b-460d-8415-7e62fc0831d4"
+      Value: "390133df-6b97-4cb9-b897-9b661673abbc"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\yasmeen.md@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240703T125058Z
+      Value: 20240722T073049Z

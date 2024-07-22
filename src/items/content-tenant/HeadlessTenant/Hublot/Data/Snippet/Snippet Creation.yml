@@ -19,9 +19,6 @@ Languages:
       Hint: __Owner
       Value: |
         sitecore\amitkumar.verma@credera.com
-    - ID: "5bd1a3b0-cf9c-49d0-a37c-10e5492e05cd"
-      Hint: PromoText
-      Value: <p>Creating and using Snippets</p>
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

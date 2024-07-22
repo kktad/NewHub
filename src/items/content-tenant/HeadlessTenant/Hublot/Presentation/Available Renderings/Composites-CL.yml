@@ -11,6 +11,7 @@ SharedFields:
     {66C585D2-3695-4A23-B1B9-9D7E0920B8D7}
     {FFE62225-6524-4193-8684-DB15E50113F6}
     {145E7BF2-4579-4AD9-8A8C-A3A486D16BA9}
+    {38800527-6862-4FBD-8EA4-2CD7A19080FC}
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{C7E336CD-45B3-46BD-A1BD-E3F0859A9162}"
@@ -32,11 +33,11 @@ Languages:
         sitecore\darvi.sunny@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "349dd504-5fd6-41a2-ad80-e8685a97e443"
+      Value: "b0b08408-f467-451a-9ba7-e50c8b71d912"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\amitkumar.verma@credera.com
+        sitecore\yasmeen.md@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240611T081507Z
+      Value: 20240719T093454Z
