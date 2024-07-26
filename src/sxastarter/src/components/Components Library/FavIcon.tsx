@@ -11,10 +11,9 @@ type FavIconProps = ComponentProps & {
 };
 
 export const Default = (props: FavIconProps): JSX.Element => {
- var favIconUrl=props.fields.Image.value?.src? props.fields.Image.value?.src : `${publicUrl}/favicon.ico`
-  return (
+ return (
     <Head>
-      <link rel="icon" href={`${publicUrl}`+`${favIconUrl}`} />
+      <link rel="icon" href={`${publicUrl}`+`${props.fields.Image.value?.src}`} key="favicon"/>
     </Head>
   );
 };
