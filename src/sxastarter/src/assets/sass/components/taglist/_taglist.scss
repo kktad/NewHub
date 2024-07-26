@@ -1,0 +1,82 @@
+.tag-list {
+    display: inline-block;
+    .tag-item {
+        .tag-links {
+            display: block;
+            float: left;
+            border-radius: 20px;
+            position: relative;
+            margin-right: 5px;
+            padding: 5px 5px;
+            margin-top: 5px;
+        }     
+    }
+    span.field-title>a {
+        background: $bg-blue;
+        border-radius: 3px 0 0 3px;
+        display: inline-block;
+        height: 26px;
+        line-height: 26px;
+        padding: 0 15px 0 23px;
+        position: relative;
+        margin: 0 20px 10px 0;
+        text-decoration: none;
+        color: $text-white;
+    }
+    span.field-title>a:before {
+        background: $bg-basic-color;
+        border-radius: 10px;
+        box-shadow: inset 0 1px rgba(0, 0, 0, .25);
+        content: '';
+        height: 6px;
+        left: 10px;
+        position: absolute;
+        width: 6px;
+        top: 10px;
+    }
+    span.field-title>a:after {
+        background: 0 0;
+        border-bottom: 13px solid transparent;
+        border-left: 10px solid $border-basic-color;
+        border-top: 13px solid transparent;
+        content: '';
+        position: absolute;
+        right: -10px;
+        top: 0;
+        bottom: 0;
+    }
+    span.field-title>a:hover {
+        background-color: $bg-blue-active;
+    }
+    span.field-title>a:hover:after {
+        border-left: 10px solid $border-basic-active;
+    }
+    span.field-title.tag-links>a {
+        text-decoration: none;
+        padding-left: 23px;
+        position: relative;
+    }
+    span.field-title.tag-text {
+        position: relative;
+        border-bottom: 1px solid transparent;
+        display: block;
+        float: left;
+        padding-left: 20px;
+        color: #232323;
+        margin-right: 10px;
+    }
+    span.field-title.tag-text:before {
+        content: "";
+        display: inline-block;
+        font: normal normal normal 14px / 1 FontAwesome;
+        font-size: inherit;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 0;
+        cursor: default;
+     }
+}

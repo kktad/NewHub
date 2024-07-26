@@ -1,32 +1,20 @@
-import { ImageField, TextField, Image as JssImage, Text } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ImageField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentProps } from 'lib/component-props';
+import Head from "next/head";
+import { publicUrl } from 'temp/config';
 
 interface Fields {
   Image: ImageField;
-  ImageCaption: TextField;
 }
 type FavIconProps = ComponentProps & {
   fields: Fields;
 };
 
-const imageLabel = 'Fav Icon Image: ';
-const imageCaptionLabel = 'Fav Icon Image Caption: ';
-
 export const Default = (props: FavIconProps): JSX.Element => {
-  console.log('Props: ', props);
-
+ var favIconUrl=props.fields.Image.value?.src? props.fields.Image.value?.src : `${publicUrl}/favicon.ico`
   return (
-    <div>
-      <hr />
-      Fav Icon Component
-      <br />
-      <br />
-      <div>{imageLabel}</div>
-      <JssImage field={props.fields.Image} />
-      <br />
-      <br />
-      <div>{imageCaptionLabel}</div>
-      <Text field={props.fields.ImageCaption} />
-    </div>
+    <Head>
+      <link rel="icon" href={`${publicUrl}`+`${favIconUrl}`} />
+    </Head>
   );
 };
