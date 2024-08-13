@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution 
 		sitecore.json = sitecore.json
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hubolt Authentication", "..\..\Auth\Hubolt Authentication\Hubolt Authentication.csproj", "{DF7FD915-E6F2-4757-A41B-5A0F5C00237F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +24,10 @@ Global
 		{816F099C-E14B-4468-9E34-87F993C6484D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{816F099C-E14B-4468-9E34-87F993C6484D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{816F099C-E14B-4468-9E34-87F993C6484D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7FD915-E6F2-4757-A41B-5A0F5C00237F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7FD915-E6F2-4757-A41B-5A0F5C00237F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7FD915-E6F2-4757-A41B-5A0F5C00237F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7FD915-E6F2-4757-A41B-5A0F5C00237F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
