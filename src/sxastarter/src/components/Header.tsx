@@ -42,7 +42,9 @@ type LinkListItemProps = {
   link: LinkField;
   text: Field<string>;
 };
-
+const handleClick = () => {
+  document.querySelector('body').classList.toggle('navPanel-visible');
+}
 const LinkListItem = (props: LinkListItemProps) => {
   return <a href={`${props.link.value.href}`}>{props.text.value}</a>;
 };
@@ -64,7 +66,15 @@ const Header = (props: HeaderProps): JSX.Element => {
       <div>
         <div className="header">
           <div className="headerimg">
-            <a href="/">
+            <div id="toggleNav">
+              <a href="#mobileNav" onClick={handleClick} aria-label="Open hidden mobile navigation" className="toggle">
+                <i className="wknd__icon wkndicon-menu" aria-hidden="true">&#9776;</i>
+              </a>
+            </div>
+            <div id="mobileNav" className="cmp-navigation--mobile">
+              <nav>{list}</nav>
+            </div>
+            <a href="/" className='logo'>
               <img alt="" src={headerImage?.replace('http://cm/', '')}></img>
             </a>
           </div>

@@ -1,0 +1,83 @@
+
+@media (max-width: 1024px) {
+    body.navPanel-visible{
+        overflow-x: hidden;
+    }
+    .headernav{
+        display: none;
+    }
+    .wkndicon-menu{
+        float: left;
+        font-size: 1.75rem;
+        padding: .5rem;
+        color: var(--textColor, #202020);
+    
+    }
+    body.navPanel-visible #mobileNav {
+        transform: translateX(0);
+    }    
+    
+    body.navPanel-visible #toggleNav {
+        transform: translateX(275px);
+    }
+    
+    #toggleNav, .root.responsivegrid {        
+        backface-visibility: hidden;
+        transition: -webkit-transform .5s ease;
+        transition: transform .5s ease;
+        transition: transform .5s ease, -webkit-transform .5s ease;
+    }
+    #toggleNav{
+        border-bottom-right-radius: 2px;
+        border-top-right-radius: 2px;
+        display: block !important;
+        height: 44px;
+        left: 10px;
+        position: fixed;
+        top: 0px;
+        width: 40px;
+        z-index: 10001;
+    }
+    .logo{
+        float: left;
+        width: 50%;
+        margin-left: 80px;
+    }
+    #mobileNav{        
+        backface-visibility: hidden;
+        background: #202020;
+        display: block !important;
+        height: 100%;
+        left: 0;
+        overflow-y: auto;
+        position: fixed;
+        top: 0;
+        transform: translateX(-275px);
+        transition: -webkit-transform .5s ease;
+        transition: transform .5s ease;
+        transition: transform .5s ease, -webkit-transform .5s ease;
+        width: 275px;
+        z-index: 10002;
+    
+    }
+    nav{
+        padding-top: 15px;
+    }
+    .cmp-navigation--mobile a{
+        float: left;
+        width: 100%;
+        border-top: 1px solid hsla(0, 0%, 100%, .05);
+        color: var(--textColorInverse, #ebebeb);
+        display: block;
+        height: 44px;
+        line-height: 44px;
+        padding: 0 1em;
+        text-decoration: none;
+    }
+    .newsletter{
+        padding: 10px !important;
+    }
+}
+#mobileNav, #toggleNav {
+    display: none;
+}
