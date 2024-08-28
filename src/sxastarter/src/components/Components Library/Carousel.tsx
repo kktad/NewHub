@@ -42,7 +42,8 @@ export const Default = (props: CarouselProps): JSX.Element => {
         slidesToShow: 1,
         slidesToScroll: 1,
         dots: customBullet,
-        arrows: customArrow,
+        arrows: customArrow,        
+        adaptiveHeight: true,
         fade: transitionFade,
         vertical: transitionVerticalSlide
       };

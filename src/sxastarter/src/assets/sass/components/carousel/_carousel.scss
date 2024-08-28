@@ -29,7 +29,6 @@
 .slick-list{
     margin-bottom: 40px !important;
     .slick-slide  {
-        height: 300px !important;
         img{
             width: 100%;
         }
@@ -88,4 +87,8 @@
     &:before{
         color: #232323 !important;
     }    
+}
+
+@media (max-width: 1024px) {
+    
 }

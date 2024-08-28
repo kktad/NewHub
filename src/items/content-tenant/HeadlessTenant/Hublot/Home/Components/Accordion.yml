@@ -24,8 +24,15 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{07D53FE0-72F2-45B0-87B1-D986D320053B}"
+              uid="{EE03DAD6-8A7A-4B70-BD09-B6C16D7DF21E}"
               p:before="*"
+              s:ds="{DB849711-DA13-4D73-9452-3449CD75C806}"
+              s:id="{FFE62225-6524-4193-8684-DB15E50113F6}"
+              s:par="EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple&amp;CanToggle&amp;ExpandedByDefault&amp;ExpandOnHover&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD83969A7-F776-4AB7-A343-31E60074AE26%7D&amp;Styles=%7B378E350F-8691-44A0-AB67-BCBC6CEFB94B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+              s:ph="/headless-main/container-21" />
+            <r
+              uid="{07D53FE0-72F2-45B0-87B1-D986D320053B}"
+              p:after="r[@uid='{EE03DAD6-8A7A-4B70-BD09-B6C16D7DF21E}']"
               s:ds="{DB849711-DA13-4D73-9452-3449CD75C806}"
               s:id="{FFE62225-6524-4193-8684-DB15E50113F6}"
               s:par="EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple&amp;CanToggle&amp;ExpandedByDefault=1&amp;ExpandOnHover&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD83969A7-F776-4AB7-A343-31E60074AE26%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=18"
@@ -143,11 +150,11 @@ Languages:
               s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B7B46565F-6126-4AA0-A666-35DCF3835D2C%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=19"
               s:ph="headless-main" />
             <r
-              uid="{EE03DAD6-8A7A-4B70-BD09-B6C16D7DF21E}"
+              uid="{F1D969B4-0F21-4C0D-A2A8-B7AAC7A55EA8}"
               p:after="*[1=2]"
-              s:ds="{DB849711-DA13-4D73-9452-3449CD75C806}"
-              s:id="{FFE62225-6524-4193-8684-DB15E50113F6}"
-              s:par="EasingFunction=Swing&amp;Speed=500&amp;CanOpenMultiple&amp;CanToggle&amp;ExpandedByDefault&amp;ExpandOnHover&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BD83969A7-F776-4AB7-A343-31E60074AE26%7D&amp;Styles=%7B378E350F-8691-44A0-AB67-BCBC6CEFB94B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=20"
+              s:ds=""
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles=accordion-content-wrapper&amp;DynamicPlaceholderId=21"
               s:ph="headless-main" />
           </d>
         </r>
@@ -159,14 +166,14 @@ Languages:
       Value: Accordion
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "22123055-3b13-44a7-ae40-541b0d501fb6"
+      Value: "cbda6d25-609b-46a8-8971-052d551a6427"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\meenal.g@credera.com
+        sitecore\srinivas.vennamalla@credera.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240626T095900Z
+      Value: 20240828T084417Z
     - ID: "f0694dd8-d797-489a-b99b-c08d4b1958d9"
       Hint: Title
       Value: Accordion
