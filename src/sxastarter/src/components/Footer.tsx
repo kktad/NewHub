@@ -18,14 +18,14 @@ interface Fields {
 }
 
 const FooterLink = (props: FooterItem) => {
-  return <a href={`${props.link}`}>{props.text}</a>;
+  return <a href={`${props?.link}`}>{props.text}</a>;
 };
 
 const Footer = (props: FooterProps): JSX.Element => {
-  const list = props.fields.items.map((element: FooterItem, key: number) => (
+  const list = props?.fields?.items?.map((element: FooterItem, key: number) => (
     <FooterLink key={`${key}${element.link}`} link={element.link} text={element.text} />
   ));
-  const footerLogo = props.fields.footerimage.url;
+  const footerLogo = props?.fields?.footerimage?.url;
   return (
     <div className="footer">
       <div className="newsletter">
